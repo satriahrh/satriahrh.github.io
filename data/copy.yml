@@ -1,0 +1,74 @@
+banner:
+  name: Satria H R Harsono
+  description:  
+    The name is Satria H R Harsono (formally Satria Hafizh Rizkitama
+    Harsono), I am software engineer specialized in backend development.
+skillSets:
+  - name: Programming Language
+    skills:
+      - Go
+      - Ruby
+      - Javascript
+      - Python
+      - C#
+      - C++
+  - name: Database
+    skills:
+      - MySQL
+      - MongoDB
+      - SQL Server
+      - SQLite
+      - Redis
+      - Elasticsearch
+  - name: Architecture
+    skills:
+      - Microservices
+      - Monolithic
+      - RESTful API
+  - name: Tech Softskills
+    skills:
+      - TDD
+      - KISS
+      - DRY
+      - YAGNI
+      - SOLID
+  - name: Softskills
+    skills:
+      - Pragmatic
+      - Collaborating
+      - Business Prioritizing
+employments:
+  - company: Bukalapak
+    companyUrl: https://www.bukalapak.com
+    title: Software Development Engineer
+    range: Aug 2018 - present
+    jobs:
+      - "<u>BukaBike</u>: Developed Bukalapak free bike sharing feature in collaboration with Sepeda Baik."
+      - "<u>Pembiayaan Tunai</u>: Developed online cash funding application and integrated it to several partners."
+      - "<u>BukaCicilan</u>: Designed and developed online credit application and integrated it to several partners."
+    achievements:
+      - "Increase service performance of <strong>cpu by 7.5x</strong> and <strong>mem by 1.3x </strong> during load test"
+      - "<strong>Initiated and deployed</strong> the BukaCicilan feature."
+  - company: Bukalapak
+    companyUrl: https://www.bukalapak.com
+    title: Software Engineer (Intern)
+    range: Dec 2017 - Mar 2018
+    jobs:
+      - "<u>Flight Ticketing</u>: Improved usability of flight ticket booking."
+    achievements:
+      - "Leveraged knowledge of TDD and consistently doing it ever since in professional."
+  - company: Xtremax
+    companyUrl: https://www.xtremax.com
+    title: Back End Developer (Intern)
+    range: May - Aug 2017
+    jobs:
+      - Lightweight feature improvements requested by clients.
+    achievements:
+      - "Leveraged knowledge of an multinational software consultant industry."
+project:
+  - name: Caramengurus.com
+    description: React-Gatsby of how to article on paperwork and service bureau finder.
+  - name: Winslow
+    description: Golang cli application to manage scrum project.
+  - name: File to Image Encryption
+    description: C++ implementation of my undergraduate final project.
