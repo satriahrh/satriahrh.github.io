@@ -1,25 +1,31 @@
 import React from "react"
 import PropTypes from "prop-types"
 
-import {CenterContainer} from "./main"
+import { CenterContainer } from "./main"
 
 const Employments = ({ employments }) => {
   const employmentsMaterial = employments.map(employment => {
-    const jobs = employment.jobs.map(job => <li dangerouslySetInnerHTML={{__html: job}}/>)
-    const achievements = employment.achievements.map(achievement => <li dangerouslySetInnerHTML={{__html: achievement}}/>)
+    const jobs = employment.jobs.map(job => (
+      <li dangerouslySetInnerHTML={{ __html: job }} />
+    ))
+    const achievements = employment.achievements.map(achievement => (
+      <li dangerouslySetInnerHTML={{ __html: achievement }} />
+    ))
     return (
       <div>
         <h3>
-          {employment.title} at <a href={employment.companyUrl}>{employment.company}</a>
+          {employment.title} at{" "}
+          <a href={employment.companyUrl}>{employment.company}</a>
         </h3>
         <p>{employment.range}</p>
-        <p>What I did there
+        <p>
+          What I did there
           <ul>{jobs}</ul>
         </p>
-        <p>My <strong>achievements</strong> I am proud of
+        <p>
+          My <strong>achievements</strong> I am proud of
           <ul>{achievements}</ul>
         </p>
-
       </div>
     )
   })
@@ -29,7 +35,6 @@ const Employments = ({ employments }) => {
         <h2>My Employments</h2>
         <p>Bellow are companies I have worked for so far.</p>
         {employmentsMaterial}
-
       </CenterContainer>
     </section>
   )
@@ -56,7 +61,10 @@ Employments.defaultProps = {
       companyUrl: "bukalapak.com",
       range: "August 2018 - present",
       jobs: ["Building high quality API", "Maintaining high demands services"],
-      achievements: ["Building high quality API", "Maintaining high demands services"],
+      achievements: [
+        "Building high quality API",
+        "Maintaining high demands services",
+      ],
     },
   ],
 }

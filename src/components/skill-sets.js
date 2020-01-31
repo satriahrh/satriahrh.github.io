@@ -1,8 +1,8 @@
 import React from "react"
 import PropTypes from "prop-types"
-import module from './skill-sets.module.scss'
+import module from "./skill-sets.module.scss"
 
-import {CenterContainer} from "./main"
+import { CenterContainer } from "./main"
 
 const SkillSets = ({ skillSets }) => {
   const skills = skillSets.map(skill => {
@@ -21,7 +21,9 @@ const SkillSets = ({ skillSets }) => {
     <section className={module.skillSets}>
       <CenterContainer>
         <h2>What Can I Do?</h2>
-        <p>Here are few things why you (as tech recruiter) should care me about.</p>
+        <p>
+          Here are few things why you (as tech recruiter) should care me about.
+        </p>
         <ul>{skills}</ul>
       </CenterContainer>
     </section>

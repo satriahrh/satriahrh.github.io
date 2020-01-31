@@ -2,7 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import module from "./banner.module.scss"
 
-import {CenterContainer} from "./main"
+import { CenterContainer } from "./main"
 
 const Banner = ({ banner }) => {
   return (
@@ -10,7 +10,9 @@ const Banner = ({ banner }) => {
       <CenterContainer>
         <h1 className={module.name}>{banner.name}</h1>
         <p className={module.description}>{banner.description}</p>
-        <a className={module.link} href={"https://satriahrh.github.io/blog"}>Visit my Blog</a>
+        <a className={module.link} href={"https://satriahrh.github.io/blog"}>
+          Visit my Blog
+        </a>
       </CenterContainer>
     </div>
   )
