@@ -39,7 +39,7 @@ const IndexPage = () => {
   )
   return (
     <Layout>
-      <SEO title="Satria H R Harsono | Software Engineer" />
+      <SEO title="Satria H R Harsono" />
       <Banner banner={dataYaml.banner} />
 
       <SkillSets skillSets={dataYaml.skillSets} />
