@@ -10,7 +10,7 @@ export default class Contact extends React.Component {
   onCopied = text => console.log(`${text} was copied to the clipboard`)
 
   render() {
-    const email = "satriahrh<at>gmail<dot>com"
+    const email = "satriahrh@gmail.com"
     return (
       <section className={module.contact}>
         <CenterContainer>

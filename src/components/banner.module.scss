@@ -1,5 +1,5 @@
 .banner {
-  //padding: 20% 5%;
+  padding-bottom: 30px;
   min-height: 70vh;
   background-color: #dd3333;
   border-radius: 0 0 30px 30px;
@@ -12,19 +12,17 @@
   font-size: 4em;
   color: white;
   margin-top: 0;
-  //max-width: 500px;
 }
 
 .description {
   color: white;
   max-width: 500px;
-  font-size: 2.0rem;
+  font-size: 2rem;
 }
 
 .link {
   font-size: 1.7em;
   padding: 1rem;
   margin: 0 auto;
-  width: fit-content;
   border-style: solid;
 }
