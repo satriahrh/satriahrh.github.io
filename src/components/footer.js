@@ -17,7 +17,9 @@ const Footer = () => (
         <i className="lab la-instagram" />
       </a>
     </div>
-    <div className={module.copy}>satriahrh © 2020,</div>
+    <div className={module.copy}>
+      <a href="https://satriahrh.github.io">satriahrh.github.io © 2020</a>
+    </div>
   </footer>
 )
 
