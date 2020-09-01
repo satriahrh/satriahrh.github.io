@@ -10,8 +10,18 @@ skillSets:
       - Ruby
       - Javascript
       - Python
+      - Dart
       - C#
       - C++
+  - name: Framework and Techs
+    skills:
+      - Sinatra
+      - NodeJS
+      - ReactJS
+      - Flutter
+      - Rails
+      - Django
+      - ASP.Net
   - name: Database
     skills:
       - MySQL
@@ -25,18 +35,21 @@ skillSets:
       - Microservices
       - Monolithic
       - RESTful API
-  - name: Tech Softskills
+  - name: Infrastructures
     skills:
-      - TDD
-      - KISS
-      - DRY
-      - YAGNI
-      - SOLID
-  - name: Softskills
+      - Google Cloud Platform
+      - Heroku, Kubernetes
+      - Gitlab Runner
+      - Travis-CI
+      - Github Actions
+      - Docker Containerization
+  - name: Tooling
     skills:
-      - Pragmatic
-      - Collaborating
-      - Business Prioritizing
+      - Kibana
+      - Datadog
+      - Grafana
+      - Redash
+      - Jira family
 employments:
   - company: Bukalapak
     companyUrl: https://www.bukalapak.com
@@ -46,9 +59,11 @@ employments:
       - "<u>BukaBike</u>: Developed Bukalapak free bike sharing feature in collaboration with Sepeda Baik."
       - "<u>Pembiayaan Tunai</u>: Developed online cash funding application and integrated it to several partners."
       - "<u>BukaCicilan</u>: Designed and developed online credit application and integrated it to several partners."
+      - "<u>BayarTempo</u>: Pay later for Bukalapak mitra store."
+      - "<u>BukaModal</u>: Cash funding for Bukalapak seller."
     achievements:
-      - "Increase service performance of <strong>cpu by 7.5x</strong> and <strong>mem by 1.3x </strong> during load test"
-      - "<strong>Initiated and deployed</strong> the BukaCicilan feature."
+      - "Architecting one financing service for various type of financing products"
+      - "Engineering Squad Leader since Feb 2020"
   - company: Bukalapak
     companyUrl: https://www.bukalapak.com
     title: Software Engineer (Intern)
@@ -66,9 +81,9 @@ employments:
     achievements:
       - "Leveraged knowledge of an multinational software consultant industry."
 project:
-  - name: Caramengurus.com
-    description: React-Gatsby of how to article on paperwork and service bureau finder.
-  - name: Winslow
-    description: Golang cli application to manage scrum project.
+  - name: Sesehat
+    description: Social media for healthy lifestyle enthusiast, available at <a href="github.com/satriahrh/sesehat-flutter">github repo</a>
+  - name: Letter Block Game
+    description: A game, pick a word from 5x5 jumbled letters. To refresh your Indonesian vocabulary. Available at <a href="letter-block-game.herokuapp.com">letter-block-game.herokuapp.com</a>
   - name: File to Image Encryption
     description: C++ implementation of my undergraduate final project.
