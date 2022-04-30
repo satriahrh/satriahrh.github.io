@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[satriahrh Blog RSS Feed]]></title><description><![CDATA[Software Engineer who loves his job. Pasioned about technology and
+    education. Open for any opportunities.]]></description><link>https://satriahrh.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 30 Apr 2022 17:12:40 GMT</lastBuildDate><item><title><![CDATA[Menjadi Handal dengan Software Engineering Body of Knowledge (SWEBOK)]]></title><description><![CDATA[Teman-teman yang sudah lulus setidaknya S1 Teknik Informatika, pasti pernah mendengarnya. Awalnya, aku kira “barang” ini hanya akan menjadi…]]></description><link>https://satriahrh.com/blog/336-menjadi-handal-dengan-software-engineering-body-of-knowledge-swebok/</link><guid isPermaLink="false">https://satriahrh.com/blog/336-menjadi-handal-dengan-software-engineering-body-of-knowledge-swebok/</guid><pubDate>Mon, 31 Jan 2022 01:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/07da2da3efb0da893f8f50162d9784e0/e5166/Menjadi-Handal-dengan-SWEBOK-v4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 52.53164556962025%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHjo4pnkpr/xAAZEAACAwEAAAAAAAAAAAAAAAAAAQIQIRH/2gAIAQEAAQUC5rVLCYz/xAAWEQEBAQAAAAAAAAAAAAAAAAACEBL/2gAIAQMBAT8BC1P/xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8BTJ//xAAZEAADAAMAAAAAAAAAAAAAAAAAECECUWH/2gAIAQEABj8ChpQx6v/EABwQAAICAgMAAAAAAAAAAAAAAAABESExQVFxgf/aAAgBAQABPyGPMO3Rq62P0VOsei8newik/9oADAMBAAIAAwAAABDTL//EABcRAAMBAAAAAAAAAAAAAAAAAAEQEUH/2gAIAQMBAT8QjMxf/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QCP/EABsQAQACAwEBAAAAAAAAAAAAAAEAESExUUGh/9oACAEBAAE/ELSKtYrsAZ+w2HAgFs+o7C6ZcHXY1pUBs7YKgT//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cover&quot;
+        title=&quot;Cover&quot;
+        src=&quot;/static/07da2da3efb0da893f8f50162d9784e0/828fb/Menjadi-Handal-dengan-SWEBOK-v4.jpg&quot;
+        srcset=&quot;/static/07da2da3efb0da893f8f50162d9784e0/ff44c/Menjadi-Handal-dengan-SWEBOK-v4.jpg 158w,
+/static/07da2da3efb0da893f8f50162d9784e0/a6688/Menjadi-Handal-dengan-SWEBOK-v4.jpg 315w,
+/static/07da2da3efb0da893f8f50162d9784e0/828fb/Menjadi-Handal-dengan-SWEBOK-v4.jpg 630w,
+/static/07da2da3efb0da893f8f50162d9784e0/0ede0/Menjadi-Handal-dengan-SWEBOK-v4.jpg 945w,
+/static/07da2da3efb0da893f8f50162d9784e0/e5166/Menjadi-Handal-dengan-SWEBOK-v4.jpg 1200w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Teman-teman yang sudah lulus setidaknya S1 Teknik Informatika, pasti pernah mendengarnya. Awalnya, aku kira “barang” ini hanya akan menjadi referensi akademis yang tidak akan pernah kita tengok, layaknya jurnal-jurnal ilmiah yang hanya kita butuhkan ketika mengerjakan skripsi.&lt;/p&gt;
+&lt;p&gt;Di saat aku penasaran tentang sebuah formula menjadi Software Engineer terbaik, ternyata ada &lt;a href=&quot;https://www.computer.org/&quot;&gt;perkumpulan dari praktisi dan ilmuan di bidang ini&lt;/a&gt; yang membuatnya secara profesional, yaitu &lt;a href=&quot;https://www.computer.org/education/bodies-of-knowledge/software-engineering&quot;&gt;SWEBOK: Software Engineering Body of Knowledge&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Untuk Apa SWEBOK?&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Body of knowledge&lt;/em&gt; secara umum ada di profesi-profesi lain selain Software Engineering: mulai dari &lt;em&gt;finance&lt;/em&gt;, &lt;em&gt;civil engineering&lt;/em&gt;, hingga &lt;em&gt;medical&lt;/em&gt;. Dibuat sebagai referensi umum untuk menjelaskan apa yang dibutuhkan untuk bisa mendalami atau menjadi profesi tersebut.&lt;/p&gt;
+&lt;p&gt;Tujuan dibuatnya SWEBOK ini sangat gamblang dan jelas:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Karakterisasi konten&lt;/strong&gt; dari disiplin Software Engineering&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mempromosikan pandangan yang konsisten&lt;/strong&gt; tentang apa itu Software Engineering &lt;strong&gt;secara mendunia&lt;/strong&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Memperjelas dan menklarifikasi batasan&lt;/strong&gt; antara Software Engineering dengan disipiln lain yang bersinggungan;&lt;/li&gt;
+&lt;li&gt;Menyediakan &lt;strong&gt;fondasi untuk &lt;em&gt;training&lt;/em&gt;, pembelajaran&lt;/strong&gt; dan pengembangan kurikulum;&lt;/li&gt;
+&lt;li&gt;Menyediakan &lt;strong&gt;basis untuk sertifikasi dan lisensi&lt;/strong&gt;;&lt;span style=&quot;font-size: inherit;&quot;&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Bahasa awamnya, kalau pengen jadi Software Engineer yang jago dan bingung mau belajar apa aja, referensi ya dari SWEBOK. Sebab di sana sudah lengkap dan dijelaskan secara formal, dan dibuat oleh ilmuan dan praktisi profesional.&lt;/p&gt;
+&lt;p&gt;Disebabkan SWEBOK ini termasuk karya ilmiah, maka bahasanya sangat tidak manusiawi untuk kita-kita yang terbiasa baca artikel praktis atau tutorial yang mudah diikuti. Sebab itu, mesti ada perantara dari lembaga &lt;em&gt;training&lt;/em&gt;, sekolah, kursus, mentor yang bisa menerjemahkan “apa sih yang perlu kita pelajari”.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;#x3C;pre class=&quot;wp-block-verse&quot;&gt;. . . kalau pengen jadi Software Engineer yang jago dan bingung mau belajar apa, refererensi ya dari SWEBOK
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;Apa Saja yang Dibahas di SWEBOK?&lt;/h2&gt;
+&lt;p&gt;Kalau mengacu ke SWEBOK yang terakhir, SWEBOK v3.0, bahasannya dibagi ke 15 &lt;em&gt;knowledge areas&lt;/em&gt;. Istilah &lt;em&gt;knowledge area&lt;/em&gt; digunakan untuk menyebutkan setiap topik yang dibahas.&lt;/p&gt;
+&lt;p&gt;Aku akan mencoba menyebutkannya satu per satu sambil memberikan gambaran singkat tentangnya.&lt;/p&gt;
+&lt;h3&gt;Software Requirement&lt;/h3&gt;
+&lt;p&gt;Aktivitas untuk memperoleh, menganalisisi, menspesifikasikan, hingga memvalidasi sebuah kebutuhan dari Software. Biasanya dilakukan oleh UX Researcher, Product Manager, Engineering Management.&lt;/p&gt;
+&lt;h3&gt;Software Design&lt;/h3&gt;
+&lt;p&gt;Aktivitas untuk mendefinisikan tampilan, komponen, hingga arsitektur dari Software. Umumnya dilakukan oleh UI Designer, Product Manager, Tech Lead, Software Architect.&lt;/p&gt;
+&lt;h3&gt;Software Construction&lt;/h3&gt;
+&lt;p&gt;Pembuatan Software itu sendiri: &lt;em&gt;coding&lt;/em&gt;, &lt;em&gt;internal testing&lt;/em&gt;, &lt;em&gt;unit test&lt;/em&gt;, &lt;em&gt;debugging&lt;/em&gt;, dll. Awamnya adalah &lt;em&gt;ngoding&lt;/em&gt; di depan laptop bikin aplikasi.&lt;/p&gt;
+&lt;h3&gt;Software Testing&lt;/h3&gt;
+&lt;p&gt;Mengetest Software yang sudah dibuat, dicek apakah sudah sesuai dengan kebuthan yang diminta. Biasanya akan ada banyak &lt;em&gt;test case&lt;/em&gt; untuk memudahkan prosesnya. Biasanya juga dilakukan oleh QA, tetapi tidak terlepas ada aktivitas lain yang dilakukan oleh Security Analys, DevOps, dll untuk memeriksa kebutuhan-kebutuhan lain yang sifatnya &lt;em&gt;non functional&lt;/em&gt;.&lt;/p&gt;
+&lt;h3&gt;Software Maintenance&lt;/h3&gt;
+&lt;p&gt;Sederhananya, memastikan bahwa Software yang dibuat masih bisa beroperasi dengan lancar sesuai dengan kebutuhan.&lt;/p&gt;
+&lt;h3&gt;Software Configuration Management&lt;/h3&gt;
+&lt;p&gt;Aktivitas yang memungkinkan pengawasan dan pengendalian secara teknis dan administratif. Supaya &lt;em&gt;stakeholder&lt;/em&gt; tau kondisi aktual tanpa perlu melihat langsung seperti melihat &lt;em&gt;codingan&lt;/em&gt; atau yang lainnya. Contoh konkritnya yaitu dokumentasi dan pelaporan.&lt;/p&gt;
+&lt;h3&gt;Software Engineering Management&lt;/h3&gt;
+&lt;p&gt;Aktivitas manajemen, seperti manajemen secara umum, hanya saja objek utamanya adalah Software: perencanaan, koordinasi, pengukuran, monitoring, kontrol, pelaporan. Tujuannya, supaya si Software dan proses &lt;em&gt;engineering&lt;/em&gt;-nya tersampakan seara efisien, efektif dan bermanfaat bagi semua &lt;em&gt;stakeholder&lt;/em&gt;.&lt;/p&gt;
+&lt;h3&gt;Software Engineering Process&lt;/h3&gt;
+&lt;p&gt;Merupakan serangkaian aktivitas untuk membuat Software itu sendiri. Bagaimana ini yang terpenting adalah memahami setiap prosesnya agar kita bisa melakukan &lt;em&gt;improvement&lt;/em&gt; supaya prosesnya bisa lebih bagus.&lt;/p&gt;
+&lt;h3&gt;Software Engineering Models and Methods&lt;/h3&gt;
+&lt;p&gt;Mencakup segala macam model untuk membuat sebuah Software dan metode pembuatannya. Artinya, kerangka berpikir untuk menentukan proses pembuatannya kita tidak perlu berpikir dari nol.&lt;/p&gt;
+&lt;h3&gt;Software Quality&lt;/h3&gt;
+&lt;p&gt;Kualitas Software adalah karakteristik yang diinginkan dari sebuah Software. Mirip seperti kebutuhan, tetapi sudah diterjemahkan ke dalam bahasa yang lebih teknis dan bisa terukur. Bahasan ini mencakup, bagaimana kita bisa mencapai sebuah sebuah kualitas Software yang diinginkan mulai dari belum ada &lt;em&gt;requirement&lt;/em&gt; hingga tahap (bukan) akhir.&lt;/p&gt;
+&lt;h3&gt;Software Engineering Professional Practice&lt;/h3&gt;
+&lt;p&gt;Praktik profesional di sini mengacu pada &lt;em&gt;soft skill&lt;/em&gt; yang harus dimiliki. Mencakup profesionalism, kerja sama tim, psikologi, dan komunikasi.&lt;/p&gt;
+&lt;h3&gt;Software Engineering Economics&lt;/h3&gt;
+&lt;p&gt;Mencakup tentang seorang membuat keputusan dalam konteks bisnis. Tidak semua orang bisa melakukannya, apalagi kita yang terlalu kutu buku dan hanya peduli soal teknis. Pada akhirnya, kita juga perlu memahami bahwa Software perlu dibuat karena ada alasan bisnis di baliknya.&lt;/p&gt;
+&lt;h3&gt;Computing Foundations&lt;/h3&gt;
+&lt;p&gt;Bahasan ini harus menyadari bahwa Software yang mayoritas ada kebanyakan ini dibuat di atas dan untuk dijalankan di sebuah komputer, apapun bentuk komputernya. Sehingga, pemahaman tentang bagaimana sebuah Software bisa bekerja di atas komputer sangat penting untuk kita pelajari.&lt;/p&gt;
+&lt;h3&gt;Mathematical Foundations&lt;/h3&gt;
+&lt;p&gt;Fondasi matematis yang bagus adalah apa yang membuat Software yang dibuat berjalan sesuai dengan logika yang sesuai. Komputer, berada di atas fondasi matematis ini.&lt;/p&gt;
+&lt;h3&gt;Engineering Foundations&lt;/h3&gt;
+&lt;p&gt;Dari namanya saja kita harus sadar bahwa profesi ini adalah &lt;em&gt;engineering&lt;/em&gt;: sederhananya ada proses yang sistematis dan terukur untuk menyelesaikan sebuah masalah tertentu. Bahasan ini mencakup fondasi &lt;em&gt;engineering&lt;/em&gt; yang diperlukan: metode empiris dan teknis eksperimen, analisa statistik, pengukuran, &lt;em&gt;engineering design,&lt;/em&gt; pemodelan, simulasi, purwa rupa, standarisasi, analisa akar masalah, dll.&lt;/p&gt;
+&lt;h2&gt;Apa Selanjutnya?&lt;/h2&gt;
+&lt;p&gt;Untuk sekarang, kamu bisa mengunduhnya &lt;a href=&quot;https://www.computer.org/education/bodies-of-knowledge/software-engineering&quot;&gt;dari sini&lt;/a&gt;. Awalnya mungkin kamu kesusahan untuk melihatnya sebagai referensi praktis yang mudah diikuti.&lt;/p&gt;
+&lt;p&gt;Jangan khawatir, sejak awal aku sudah berencana agar SWEBOK ini yang menjadi pegangan untuk serial See You at The Top ini. Sehingga bahasannya tidak keluar topik dan masih akurat untuk membuat kita menjadi Software Engineer yang lebih baik lagi.&lt;/p&gt;
+&lt;p&gt;Aku juga membuat &lt;a href=&quot;https://www.programsism.com&quot;&gt;Programsism&lt;/a&gt;, tempat berbayar di mana siapa saja bisa menjadi Software Engineer melalui kursus maupun mentoring. Platform tersebut memang baru dibuat dan aku sebagai pembuatnya merancangnya secara khusus dengan referensi SWEBOK ini. Kamu akan bertemu dengan mentor dan pengajar yang profesional dan berpengalaman di industri langsung.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@tomkulczycki?utm_source=unsplash&amp;#x26;utm_medium=referral&amp;#x26;utm_content=creditCopyText&quot;&gt;Tom Kulczycki&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/s/photos/wizard?utm_source=unsplash&amp;#x26;utm_medium=referral&amp;#x26;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mengetahui Peran dari Role Lain di Tim]]></title><description><![CDATA[Selama bekerja sebagai Software Engineer, pernahkah kamu menyadari posisimu di dalam sebuah tim? Tim yang kita maksud di sini adalah…]]></description><link>https://satriahrh.com/blog/280-mengetahui-peran-dari-role-lain-di-tim/</link><guid isPermaLink="false">https://satriahrh.com/blog/280-mengetahui-peran-dari-role-lain-di-tim/</guid><pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Selama bekerja sebagai Software Engineer, pernahkah kamu menyadari posisimu di dalam sebuah tim?&lt;/p&gt;
+&lt;p&gt;Tim yang kita maksud di sini adalah sekumpulan orang yang mempunyai ketertarikan yang sama untuk memberikan nilai bisnis. Sehingga, kita tidak hanya sedang berbicara rekan di posisi lain yang juga engineer. Ingat juga ada rekan kita dari bagian &lt;em&gt;customer service&lt;/em&gt; yang menunggu jawaban dari kita ketika ada &lt;em&gt;incident&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Bagiku pribadi, akan lebih mudah mengetahuinya dengan membuat sebuah diagram. Teman-teman kita yang bekerja di korporat mungkin terbiasa dengan bagan organisasi, mulai dari atas ada kepala atau direktur hingga sampai bawah yaitu para staf.&lt;/p&gt;
+&lt;h2&gt;Penting untuk mengetahui hal ini&lt;/h2&gt;
+&lt;p&gt;Dilihat dari produktifitas bekerja, aku merasa mengetahui peran dari &lt;em&gt;role&lt;/em&gt; lain memiliki beberapa manfaat.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Memiliki ekspektasi yang sesuai&lt;/strong&gt; atas peran dari &lt;em&gt;role&lt;/em&gt; lain, karena ada pekerjaan kita yang harus dibantu oleh &lt;em&gt;role&lt;/em&gt; lain. Contohnya membuat &lt;em&gt;Product Requirement Document&lt;/em&gt; yang dilakukan oleh Product Manager, atau &lt;em&gt;testing&lt;/em&gt; yang dilakukan oleh rekan kita di Quality Assurance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Memberikan ekspektasi yang sesuai&lt;/strong&gt; kepada &lt;em&gt;role&lt;/em&gt; lain, karena rekan kita membutuhkan hasil pekerjaan kita. Contohnya aku sebagai seorang Tech Lead harus bisa membuat &lt;em&gt;Technical Requirement Document&lt;/em&gt; yang dibutuhkan oleh para &lt;em&gt;engineer&lt;/em&gt; untuk mengetahui rancangan awal teknis proyek.&lt;/p&gt;
+&lt;p&gt;Meningkatkan &lt;strong&gt;kolaborasi&lt;/strong&gt; dan &lt;strong&gt;perbaikan&lt;/strong&gt; bersama, karena dengan mengetahui hal peran dari &lt;em&gt;role&lt;/em&gt; lain maka masing-masing dari kita bisa berkomitmen untuk profesional dan melakukan perbaikan sesuai dengan perannya.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Understanding bigger picture&lt;/strong&gt;, memudahkan kita untuk melihat kemampuan yang dimiliki oleh tim. Hal ini sangat terasa ketika kamu mulai berada di level senior, mengetahui apa yang bisa dilakukan &lt;em&gt;role&lt;/em&gt; selain engineer sangat penting. Contohnya, fitur yang kita buat membutuhkan sebuah komunikasi yang bagus ke &lt;em&gt;user&lt;/em&gt;, yang mana bisa dibantu oleh para Account Executive.&lt;/p&gt;
+&lt;h2&gt;Bagaimana mengetahui peran lain&lt;/h2&gt;
+&lt;p&gt;Untuk lebih mudah mengetahuinya, aku lebih suka membuatnya dalam bentuk diagram. Di bawah ini adalah diagram yang menunjukkan hubungan ku dengan &lt;em&gt;role&lt;/em&gt; lain di tim.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7a765e060c4d8362aeae4681f3d0f603/a12d5/See-You-at-the-Top-Mengetahui-Peran-dari-Role-Lain-di-Tim-Hubunganku-dengan-tim.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAd6VFFf/xAAVEAEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAQABBQJr/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAFxAAAwEAAAAAAAAAAAAAAAAAAAEQMf/aAAgBAQABPyGma5//2gAMAwEAAgADAAAAEHvP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhAAAwEBAQEAAAAAAAAAAAAAAREhADEQUf/aAAgBAQABPxBmA1nYT24coW+8BTz/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Diagram yang menunjukan hubunganku dengan tim dan rekan terdekat&quot;
+        title=&quot;Diagram yang menunjukan hubunganku dengan tim dan rekan terdekat&quot;
+        src=&quot;/static/7a765e060c4d8362aeae4681f3d0f603/828fb/See-You-at-the-Top-Mengetahui-Peran-dari-Role-Lain-di-Tim-Hubunganku-dengan-tim.jpg&quot;
+        srcset=&quot;/static/7a765e060c4d8362aeae4681f3d0f603/ff44c/See-You-at-the-Top-Mengetahui-Peran-dari-Role-Lain-di-Tim-Hubunganku-dengan-tim.jpg 158w,
+/static/7a765e060c4d8362aeae4681f3d0f603/a6688/See-You-at-the-Top-Mengetahui-Peran-dari-Role-Lain-di-Tim-Hubunganku-dengan-tim.jpg 315w,
+/static/7a765e060c4d8362aeae4681f3d0f603/828fb/See-You-at-the-Top-Mengetahui-Peran-dari-Role-Lain-di-Tim-Hubunganku-dengan-tim.jpg 630w,
+/static/7a765e060c4d8362aeae4681f3d0f603/0ede0/See-You-at-the-Top-Mengetahui-Peran-dari-Role-Lain-di-Tim-Hubunganku-dengan-tim.jpg 945w,
+/static/7a765e060c4d8362aeae4681f3d0f603/3ac88/See-You-at-the-Top-Mengetahui-Peran-dari-Role-Lain-di-Tim-Hubunganku-dengan-tim.jpg 1260w,
+/static/7a765e060c4d8362aeae4681f3d0f603/a12d5/See-You-at-the-Top-Mengetahui-Peran-dari-Role-Lain-di-Tim-Hubunganku-dengan-tim.jpg 2455w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Kira-kira, diagram seperti apa yang kamu miliki atas hubungamu dengan &lt;em&gt;role&lt;/em&gt; lain di tim?&lt;/p&gt;
+&lt;p&gt;Meskipun perusahaan tempat kamu bekerja mungkin sudah memilikinya, biasanya dalam bentuk bagan organisasi, terkadang diagram yang diberikan tidak benar-benar akurat karena hanya melihat bagan organisasi di tim engineer. Tidak ada yang salah dengan hal itu, tetapi rasanya kurang tepat untuk kita yang ingin memahami posisi kita di tim dan membangun kerja sama yang lebih baik.&lt;/p&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;![Struktur Organisasi | BBPOM di Samarinda](https://i0.wp.com/bbpom-samarinda.com/wp-content/uploads/2019/10/struktur-organisasi-bpom-samarinda.png?w=1200&amp;ssl=1)&lt;figcaption&gt;Contoh bagan organisasi, [sumber](https://bbpom-samarinda.com/struktur-organisasi/)&lt;/figcaption&gt;&lt;/figure&gt;Aku punya beberapa langkah yang bisa dicoba untuk membuat diagram seperti di atas.
+&lt;ol&gt;
+&lt;li&gt;Buat daftar peran-peran yang bekerja ketika &lt;em&gt;product discovery&lt;/em&gt; dan &lt;em&gt;product delivery&lt;/em&gt;;&lt;/li&gt;
+&lt;li&gt;Cari peran yang berhubungan langsung dengamu;&lt;/li&gt;
+&lt;li&gt;Cari peran yang tidak berhubungan langsung dengamu, tetapi tetap ingat bagaimana komunikasi tersebut terjadi;&lt;/li&gt;
+&lt;li&gt;Pahami masing-masing tugas dan komunikasi yang terjadi.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Apa selanjutnya&lt;/h2&gt;
+&lt;p&gt;Buat diagram tersebut dan mulai pahami peran dari &lt;em&gt;role&lt;/em&gt; lain di tim kamu. Semoga hari-hari mu semakin produktif.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Don't Reinvent The Wheel: Algoritma]]></title><description><![CDATA[Sudah sewajarnya seorang Software Engineer dituntut untuk memberikan solusi atas sebuah masalah atau kebutuhan. Cara untuk memperolehnya…]]></description><link>https://satriahrh.com/blog/308-dont-reinvent-the-wheel-algoritma/</link><guid isPermaLink="false">https://satriahrh.com/blog/308-dont-reinvent-the-wheel-algoritma/</guid><pubDate>Wed, 19 Jan 2022 01:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Sudah sewajarnya seorang Software Engineer dituntut untuk memberikan solusi atas sebuah masalah atau kebutuhan. Cara untuk memperolehnya adalah dengan berpikir. Terkadang, kita terlalu berpikir terlalu banyak hingga berpikir membuat sebuah solusi yang sudah ada barangnya di luar sana.&lt;/p&gt;
+&lt;p&gt;Di &lt;a href=&quot;https://dictionary.cambridge.org/dictionary/english/reinvent-the-wheel&quot;&gt;bahasa inggris&lt;/a&gt;, kita memiliki idiom untuk kejadian seperti ini&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;#x3C;pre class=&quot;wp-block-verse&quot;&gt;reinvent the wheel
+to waste time trying to create something that someone else has already created
+to waste time learning how to do something when it is already known how to do it:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Di profesi Software Engineer, &lt;em&gt;reinvent the wheel&lt;/em&gt; sering terjadi pada kita bahkan tidak pernah kita sadari. Jujur saja, aku pernah memikirkan sebuah solusi yang keren sekali. Sebulan kemudian solusi yang sama aku jelaskan ke tim ternyata sudah banyak beredar di Medium T_T&lt;/p&gt;
+&lt;p&gt;Bisa kita katakan kejadian &lt;em&gt;reinvent the wheel&lt;/em&gt; disebabkan sempitnya pengetahuan yang kita miliki, sehingga solusi umum yang ada di luar sana tidak pernah kita ketahui.&lt;/p&gt;
+&lt;h2&gt;Removes Duplicated Item in Arrays&lt;/h2&gt;
+&lt;p&gt;Familiar dengan masalah ini?&lt;/p&gt;
+&lt;p&gt;Diketahui sebuah array, kita diminta untuk membersihkan elemen dengan nilai yang sama sehingga array tersebut memiliki elemen yang unik satu sama lain.&lt;/p&gt;
+&lt;p&gt;Contohnya array &lt;code&gt;A=[1,2,3,4,1]&lt;/code&gt;, maka balikannya adalah &lt;code&gt;R=[1,2,3,4]&lt;/code&gt;, yang mana kita meghilangkan salah satu elemen &lt;code&gt;1&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Aku yakin teman-teman pernah menemui kasus seperti ini di tempat kerja, aku tidak mengada-ada bahwa kami pernah mengalami kasus ini dan menyelesaikannya dengan cara yang menyedihkan.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;#x3C;pre class=&quot;wp-block-code&quot;&gt;```
+R = []
+for i = 0; i &amp;#x3C; A.length(); i++ {
+  isDuplicated = false
+  for j := 0; j &amp;#x3C; R.length(); j++ {
+    if A[i] == R[j] {
+      isDuplicated = true
+      break
+    }
+  }
+  if !isDuplicated {
+    R.add(A[i])
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;
+Intinya, solusi tersebut bukan solusi yang baik. Jika kita cukup familiar dengan dynamic programming, kita bisa memanfaatkan sebuah *dictionary* atau *map* atau *cache* untuk mendeteksi elemen yang pernah muncul.
+
+Practice Makes Perfect
+----------------------
+
+Sudah sering dengar? Semakin banyak berlatih semakin sempurna kemampuan dan keahlian yang kita miliki. Keahlian yang paling sering diperlukan bagi seorang Software Engineer adalah coding sebuah solusi atas sebuah masalah.
+
+Menurut penelitian, sebenarnya latihan rata-rata hanya berkontribusi [12% dari sebuah kesempurnaan](https://www.verywellmind.com/does-practice-really-make-perfect-2795158). Jangan salah, hal ini disebabkan adanya faktor lain yang juga mendukung sebuah kesempurnaan keahlian, yang mana sesuatu yang tidak bisa benar-benar kita ubah: kepintaran, lama belajar, kapasitas memori, bakat.
+
+Sering latihan juga membentuk mental seorang yang terbiasa berlatih, sehingga ketika kemampuan tersebut dibutuhkan kita akan lebih mudah untuk mengerjakan.
+
+Karena sering berlatih, kita tidak perlu lagi berpikir dari nol, tidak perlu *reinvent the wheel*. Nyatanya, solusi algoritma sudah ada di luar sana. Tugas kita ketika di medan perang adalah mengingat kembali apa yang biasa kita lakukan ketika menemui masalah tersebut.
+
+Selamat Berlatih
+----------------
+
+Ketika kita sedang dibutuhkan untuk membuat sebuah algoritma menyelesaikan masalah tertentu, kita tidak perlu lagi berpikir keras untuk menemukan sebuah solusi yang solusi tersebut ternyata sudah umum.
+
+Aku pribadi mempunyai beberapa opsi untuk latihan algoritma ini: LeetCode dan proyek pribadi.
+
+LeetCode atau semacamnya adalah sebuah platform untuk melatih algoritma kita. Ada ribuan soal yang bisa kita selesaikan dan tersedia soal soal baru juga. Mereka juga mempunyai serial materi yang membantu kita mempelajari hal hal mendasar.
+
+Proyek pribadi mungkin juga kamu butuhkan untuk mengasah kemampuan mengerjakan masalah *real*. Terkadang, mengerjakan soal di LeetCode kurang berasa relevan dengan pekerjaan kita karena soanya yang cukup abstrak.
+&lt;/code&gt;&lt;/pre&gt;</content:encoded></item><item><title><![CDATA[Berpikir Cepat dan Fokus dengan Rutin Belajar Algoritma]]></title><description><![CDATA[Seberapa cepat kamu menyelesaikan tugas mu? Sehari? Setengah hari? Wow! Kamu hebat! Mudah bagi kita untuk mengerjakan sebuah tugas dalam…]]></description><link>https://satriahrh.com/blog/285-berpikir-cepat-dan-fokus-dengan-rutin-belajar-algoritma/</link><guid isPermaLink="false">https://satriahrh.com/blog/285-berpikir-cepat-dan-fokus-dengan-rutin-belajar-algoritma/</guid><pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Seberapa cepat kamu menyelesaikan tugas mu? Sehari? Setengah hari? Wow! Kamu hebat!&lt;/p&gt;
+&lt;p&gt;Mudah bagi kita untuk mengerjakan sebuah tugas dalam sekali duduk, fokus tanpa diganggu dengan segala kebutuhan yang sudah jelas. Tentu, kita mendapatkan &lt;em&gt;privilege&lt;/em&gt; ini ketika pertama kali bekerja sebagai Software Engineer yang masih junior dan dibimbing oleh lead yang sangat baik hati.&lt;/p&gt;
+&lt;p&gt;Makin ke sini, aku tidak pernah mendapatkan kesempatan seperti itu. &lt;em&gt;Requirement&lt;/em&gt; makin tidak jelas, &lt;em&gt;meeting&lt;/em&gt; semakin banyak bahkan dadakan, hingga &lt;em&gt;code review&lt;/em&gt; yang belum sempat dilakukan. Akhirnya pekerjaan utama kita untuk &lt;em&gt;ngoding&lt;/em&gt; making terbengkalai, senioritas kita makin dipertanyakan.&lt;/p&gt;
+&lt;p&gt;Menariknya, paling sering adalah kita tidak pernah bisa berbuat apa apa tentang hal ini. Mengusahakan hal tersebut tidak akan mengantarkan kita kemana-mana, karena semakin senior kita maka semakin banyak orang yang tertarik dengan kita.&lt;/p&gt;
+&lt;h2&gt;Cepat vs Fokus&lt;/h2&gt;
+&lt;p&gt;Ada beberapa arti cepat dan fokus dalam kbbi: &lt;a href=&quot;https://kbbi.kemdikbud.go.id/entri/cepat&quot;&gt;cepat&lt;/a&gt; dan &lt;a href=&quot;https://kbbi.kemdikbud.go.id/entri/fokus&quot;&gt;fokus&lt;/a&gt;. Di sini, aku akan memakai cukup salah satu saja.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;#x3C;pre class=&quot;wp-block-verse&quot;&gt;ce.pat
+adjektiva: dalam waktu singkat; lekas; segera: siapa -- dia dapat siapa yang lekas-lekas datang akan mendapat; penyakitnya -- baik
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;&amp;#x3C;pre class=&quot;wp-block-verse&quot;&gt;fo.kus
+verba: memusatkan perhatian: --! jangan lengah
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;Cepat ketika tidak memiliki banyak waktu&lt;/h2&gt;
+&lt;p&gt;Mengerjakan sesuatu dalam waktu singkat adalah sesuatu yang paling kita butuhkan ketika kita sudah tidak memiliki kebebasan waktu. Satu hari adalah waktu yang lama untuk ngoding ketika kita masih junior, satu jam untuk ngoding adalah waktu yang lama bagi seorang senior.&lt;/p&gt;
+&lt;p&gt;Umumnya, mengerjakan sesuatu dengan cepat tidak memberikan hasil yang terbaik, bahkan cukup. Jangan heran ketika kamu nge-&lt;code&gt;git blame&lt;/code&gt; dan menemui senior kamu melakukan sesuatu dengan buruk.&lt;/p&gt;
+&lt;p&gt;Solusinya jelas, terbiasa mengerjakan sesuatu dalam waktu yang singkat. Belajar algoritma, mengerjakan soal &lt;em&gt;competitive programming&lt;/em&gt; adalah salah satu cara yang aku rekomendasikan selain manfaat lain yang kita dapatkan.&lt;/p&gt;
+&lt;p&gt;Kita tidak ingin mengerjakan soal anekdot itu berjam-jam hingga berhari-hari. Harapannya, kita harus bisa menemukan solusi paling baik dalam waktu kurang dari satu jam sesuai kemampuan kita. Semakin sering kita melakukannya, tingkat kesusahan soal makin bertambah dan kita makin terbiasa mengerjakan &lt;em&gt;coding&lt;/em&gt; susah dalam waktu yang singkat.&lt;/p&gt;
+&lt;h2&gt;Fokus satu hal di tengah banyaknya masalah&lt;/h2&gt;
+&lt;p&gt;Aku tidak ingin berbicara banyak di sini tentang &lt;em&gt;multitasking&lt;/em&gt; (mengerjakan beberapa pekerjaan dalam satu waktu yang bersamaan). Ada &lt;a href=&quot;https://www.alodokter.com/ini-buktinya-multitasking-tidak-efisien-dan-mengganggu-kesehatan&quot;&gt;artikel kesehatan dari alodokter&lt;/a&gt; yang lebih berkompeten membahas masalah ini.&lt;/p&gt;
+&lt;p&gt;Semakin lama berkarir Software Engineer, kamu tidak lagi disuapi oleh atasan kamu untuk melakukan suatu pekerjaan. Kamu harus memberikan solusi atas masalah yang ada bahkan mencari masalah-masalah tersebut sendiri. Di saat itu, juga membutuhkan fokus untuk mengerjakan sebuah pekerjaan / fitur.&lt;/p&gt;
+&lt;p&gt;Seorang senior Software Engineer yang buruk, dia akan selalu terbuka ketika sedang bekerja. Merespon cepat sebuah chat dan mau diajak diskusi saat itu di kala dia sedang fokus mengerjakan sesuatu. Aku tidak yakin ini adalah hal yang bagus karena di kesempatan selanjutnya dia mungkin harus mengulangi dari awal apa yang sebelumnya dia kerjakan.&lt;/p&gt;
+&lt;p&gt;Tentu, belajar algoritma atau mengerjakan soal &lt;em&gt;competitive programming&lt;/em&gt; sangat membantu di sini. Kamu tidak mungkin mengerjakan soal tersebut ketika sedang nongkrong di &lt;em&gt;cafe&lt;/em&gt; bersama teman bukan? Yaa, kecuali mereka juga melakukan hal yang sama denganmu.&lt;/p&gt;
+&lt;p&gt;Mengerjakan soal soal tersebut mau tidak mau menuntut fokus yang tinggi. Ibaratnya, menengok panggilan saja membuat kita lupas baris terakhir kita mengetikkan kode.&lt;/p&gt;
+&lt;p&gt;Hasilnya, terbiasa untuk fokus mengerjakan masalah yang susah membantu kita dalam mengerjakan pekerjaan sehari-hari.&lt;/p&gt;
+&lt;h2&gt;Cepat dan Fokus&lt;/h2&gt;
+&lt;p&gt;Mengerjakan sesuatu dengan fokus yang tinggi dalam waktu yang singkat. Satu fitur selesai dalam waktu kurang dari satu jam tentu bukan mustahil lagi.&lt;/p&gt;
+&lt;p&gt;Kita mungkin tidak perlu lagi susah payah mencari &lt;em&gt;productivity hack&lt;/em&gt;, semua yang kita butuhkan ternyata sudah ada sejak awal dan sangat relevan dengan pekerjaan kita.&lt;/p&gt;
+&lt;h2&gt;Apa Selanjutnya?&lt;/h2&gt;
+&lt;p&gt;Cepat dan fokus yang dibahas di sini dalam konteks &lt;em&gt;software engineering&lt;/em&gt;. Dalam hal lain seperti manajemen mungkin agak sedikit berbeda, tentu kita tidak bisa memaksa seorang product manager yang miliki masalah kecepatan dan fokus untuk kita minta dia mengerjakan soal soal algoritma &lt;em&gt;competitive programming&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Cepat dan fokus juga merupakan salah satu manfaat yang bisa kita dapatkan dalam belajar mengerjakan soal algoritma dan &lt;em&gt;competitive programming&lt;/em&gt;. Di sini, kita mendapati hal tersebut sangat relevan dalam pekerjaan sehari-hari kita.&lt;/p&gt;
+&lt;p&gt;Jika kamu penasaran dengan &lt;a href=&quot;https://satriahrh.com/blog/282-alasan-masih-harus-rutin-belajar-algoritma/&quot;&gt;manfaat lain dari belajar algoritma dan &lt;em&gt;competitive programming&lt;/em&gt;&lt;/a&gt;, kamu mungkin tertarik untuk membaca artikel sebelumnya.&lt;/p&gt;
+&lt;p&gt;Kamu mungkin memiliki ide atau pendapat lain, jangan lupa tinggalkan komentar.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Alasan Masih Harus Rutin Belajar Algoritma]]></title><description><![CDATA[Belajar algoritma, sebagian kita lebih familiar dengan isitilah competitive programming, yaitu mengerjakan soal masalah problem set dari dan…]]></description><link>https://satriahrh.com/blog/282-alasan-masih-harus-rutin-belajar-algoritma/</link><guid isPermaLink="false">https://satriahrh.com/blog/282-alasan-masih-harus-rutin-belajar-algoritma/</guid><pubDate>Mon, 10 Jan 2022 07:54:55 GMT</pubDate><content:encoded>&lt;p&gt;Belajar algoritma, sebagian kita lebih familiar dengan isitilah competitive programming, yaitu mengerjakan soal masalah problem set dari dan diminta solusi dalam sebuah kode program. Kita biasa melakukannya di platform seperti Hackerrank, Leetcode, atau semacamnya.&lt;/p&gt;
+&lt;p&gt;Kapan terakhir kali kita belajar algoritma? Jika kita kuliah di jurusan Ilmu Komputer atau semacamnya, bisa jadi di mata kuliah keramat Desain dan Analisis Algoritma. Selepas itu, kita melupakannya karena ternyata ada banyak hal lain yang lebih asik dipelajar dan terlihat lebih butuh dipelajari.&lt;/p&gt;
+&lt;p&gt;Sebagai seorang Software Engineer, memang banyak hal yang memang harus kita pelajari. Terima kasih dengan adanya &lt;a href=&quot;https://roadmap.sh/&quot;&gt;roadmap.sh&lt;/a&gt; yang sangat membantu kita untuk menentukan arah belajar kita. Banyak hal yang harus kita pelajari, hingga kita terlupakan hal mendasar yang menyebabkan kita bisa ada di profesi ini: algoritma.&lt;/p&gt;
+&lt;h2&gt;Memperbaiki pamor belajar algoritma&lt;/h2&gt;
+&lt;p&gt;Teman-teman di sekitar kita ada yang belajar algoritma karena secaram musiman, ingin resign dan harus mempersiapkan diri untuk coding assignment atau live coding interview. Entah mengapa ini membuat pamor belajar algoritma agak tercoreng: algoritma hanya dibutuhkan untuk rekrutmen dan kurang relevan dengan pekerjaan sehari hari.&lt;/p&gt;
+&lt;p&gt;Aku condong ke pendapat yang kita harus belajar algoritma bahkan secara rutin meskipun dalam porsi yang sedikit. Untuk memperbaiki pamor ini, aku rasa memberikan sebuah kisah nyata akan membantu kamu memberikan gambaran pentingnya belajar algoritma.&lt;/p&gt;
+&lt;h2&gt;Sedikit gambaran di pekerjaan sehari-hari&lt;/h2&gt;
+&lt;p&gt;Cerita ini benar-benar terjadi di tempat aku pernah bekerja. Kode program yang aku tulis di sini dalam bahasa Go dan tentunya bukan kode program asli yang kami tulis.&lt;/p&gt;
+&lt;p&gt;Tugasnya adalah membuat sebuah API untuk melakukan validasi alamat pengguna. Hal yang perlu divalidasi adalah kesesuaian data kode pos, kelurahan, kecamatan, kota/kabupaten, hingga provinsi.&lt;/p&gt;
+&lt;p&gt;Validasi tersebut mengacu pada lima file, masing-masing sebagai berikut:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;kode pos dan kelurahannya&lt;/li&gt;
+&lt;li&gt;kelurahan dan kecamatannya&lt;/li&gt;
+&lt;li&gt;kecamatan dan kota/kabupatennya&lt;/li&gt;
+&lt;li&gt;kota/kabupaten dan provinsinya&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Contoh file kode pos dan kelurahannya:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;#x3C;pre class=&quot;wp-block-code&quot;&gt;```
+kode pos,kelurahan
+10110,Gambir
+10120,Kebon Kelapa
+10130,Petojo Utara
+.
+.
+.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;
+Berikut ini adalah kode program yang kita buat.
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;```
+// validateKodePos melakukan validasi kode pos dan kelurahannya, mengacu pada sebuah file
+func validateKodePos(kodePos string, kelurahan string) bool {
+  kodePosList := readFile(&quot;file/kode-pos.csv&quot;)
+  for i := 0; i &lt; len(kodePosList); i++ {
+    if kodePostList[i][0] == kodePos &amp;&amp; &lt;meta charset=&quot;utf-8&quot;&gt;&lt;/meta&gt;kodePostList[i][0] == kelurahan {
+      return true
+    }
+  }
+  
+  return false
+}
+
+// reafFile membaca sebuah file, dan mengembalikan dalam sebuah array 2D
+func readFile(fileName string) [][]string {
+  f, err := os.Open(filePath)
+  if err != nil {
+    log.Fatal(&quot;Unable to read input file &quot; + filePath, err)
+  }
+  defer f.Close()
+
+  csvReader := csv.NewReader(f)
+  records, err := csvReader.ReadAll()
+  if err != nil {
+    log.Fatal(&quot;Unable to parse file as CSV for &quot; + filePath, err)
+  }
+
+  return records
+}
+```
+```
+
+Perhatikan bahwa setiap kali melakukan validasi, program harus membuka file yang setidaknya berukuran 4MB. Seorang yang sudah terbiasa dengan algoritma akan tahu, mana operasi yang mahal dan bisa memperlambat proses.
+
+```
+&lt;pre class=&quot;wp-block-code&quot;&gt;```
+&lt;meta charset=&quot;utf-8&quot;&gt;&lt;/meta&gt;var cache = make(map[string][][]string)
+
+func readFile(fileName string) [][]string {
+  // tambahan di sini
+  records, found := cache[fileName]
+  if found {
+    return records
+  }
+
+  f, err := os.Open(filePath)
+  if err != nil {
+    log.Fatal(&quot;Unable to read input file &quot; + filePath, err)
+  }
+  defer f.Close()
+
+  csvReader := csv.NewReader(f)
+  records, err := csvReader.ReadAll()
+  if err != nil {
+    log.Fatal(&quot;Unable to parse file as CSV for &quot; + filePath, err)
+  }
+
+  // tambahan di sini
+  cache[fileName] = records
+
+  return records
+}
+```
+```
+
+Algoritma yang kedua menunjukkan bahwa si programmer mengerti tentang konsep “Dynamic Programming”, oleh karena itu dia menggunakan cache supaya tidak perlu membaca file setiap kali proses validasi dilakukan.
+
+Aku tau, teman-teman mungkin mengaggapnya hal tersebut sangat sederhana atau bahkan kode program yang terakhir juga bukan sebuah solusi yang paling sempurna.
+
+Seorang yang biasa dengan algoritma tidak perlu berpikir panjang dan langsung menemukan solusi tepat ketika dia melihat masalah.
+
+Apa Selanjutnya?
+----------------
+
+Kamu mungkin sudah terbayang dari poin poin manfaat yang bisa didapatkan dari cerita di atas. Tidak perlu berpikir terlalu lama, ini dia poin poin yang aku maksud.
+
+1. Mengasah berpikir cepat dan fokus
+2. Solusi umum dan teruji ada banyak di luar sana
+3. Memberikan hasil pekerjaan yang optimal tanpa pikir panjang
+
+Ada cerita khusus untuk setiap poin poin di atas yang aku akan bahas di kesempatan selanjutnya.
+
+Hingga datang kesempatan selanjutnya, jangan lupa tinggalkan komentar dan pertanyaan.</content:encoded></item><item><title><![CDATA[Memulai Sejak Pagi Apa Salahnya?]]></title><description><![CDATA[Memang tidak ada salahnya! Bahkan kebanyakan orang yang bekerja kantoran memulai hari sejak pagi. Apalagi jika mereka adalah orang tua yang…]]></description><link>https://satriahrh.com/blog/257-memulai-sejak-pagi-apa-salahnya/</link><guid isPermaLink="false">https://satriahrh.com/blog/257-memulai-sejak-pagi-apa-salahnya/</guid><pubDate>Wed, 08 Dec 2021 17:14:03 GMT</pubDate><content:encoded>&lt;p&gt;Memang tidak ada salahnya! Bahkan kebanyakan orang yang bekerja kantoran memulai hari sejak pagi. Apalagi jika mereka adalah orang tua yang mempunyai anak yang masih sekolah, segala sesuatu harus segera dipersiapkan hingga sang anak bisa mengikuti kegiatan sekolah sejak sekitar pukul 7 pagi.&lt;/p&gt;
+&lt;p&gt;Sejak kuliah, memulai sejak pagi sudah mulai menjadi mitos. Diperparah ketika kita bekerja di kantor yang tidak memiliki jam kerja bahkan fleksibel, tidak peduli datang kapan yang penting pekerjaan selesai. Memulai hari sejak pagi bukan sebuah kewajiban, katakan saja setiap orang mempunyai ritme nya masing-masing.&lt;/p&gt;
+&lt;p&gt;Sebagai seorang muslim, sebenarnya kami juga dianjurkan (kalau tidak salah dianjurkan) untuk memulai hari sejak pagi. Bangun untuk sholat subuh hendaknya tidak boleh dilanjutkan tidur, langsung bergegas bekerja mencari rizki.&lt;/p&gt;
+&lt;h2&gt;Awas begadang!&lt;/h2&gt;
+&lt;p&gt;Bertahun-tahun lamanya tidak pernah memulai sejak pagi, terjaga sampai larut malam pun juga biasa. Kadang-kadang, bisa jadi terjaga hingga adzan subuh tiba. Kalau sudah begini, mesti khawatir kesehatan kita.&lt;/p&gt;
+&lt;p&gt;Ini bukan blog kesehatan, kalau mau baca bisa ke sini saja:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.klikdokter.com/info-sehat/read/3637138/begadang-adakah-manfaatnya-bagi-kesehatan&quot;&gt;https://www.klikdokter.com/info-sehat/read/3637138/begadang-adakah-manfaatnya-bagi-kesehatan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.klikdokter.com/info-sehat/read/2697750/ini-penyakit-yang-mungkin-timbul-akibat-sering-begadang&quot;&gt;https://www.klikdokter.com/info-sehat/read/2697750/ini-penyakit-yang-mungkin-timbul-akibat-sering-begadang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.halodoc.com/artikel/terlalu-sering-begadang-ini-dampaknya-pada-tubuh&quot;&gt;https://www.halodoc.com/artikel/terlalu-sering-begadang-ini-dampaknya-pada-tubuh&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ya, itu cuma ambil dari Google. Tapi kalau kedokteran saja sudah bilang begitu, udah harus khawatir beneran dong?&lt;/p&gt;
+&lt;p&gt;Aku pribadi memang berat supaya bisa kembali ke kodratnya memulai hari sejak pagi. Berbagai cara sudah aku coba dan tetap saja tidak berhasil. Tetapi sepertinya ada satu cara yang beberapa hari terakhir ini berhasil.&lt;/p&gt;
+&lt;h2&gt;Persiapkan jadwal untuk esok di malam harinya&lt;/h2&gt;
+&lt;p&gt;Sudah berkali-kali dapat saran ini sih, tetapi tidak pernah menghiraukan karena rasanya aneh. Mungkin karena aku sok mengklaim sebagai orang yang spontan dan tanpa perencanaan, membuat jadwal kegiatan yang sejatinya merupakan perencanaan sangat bertolak belakang.&lt;/p&gt;
+&lt;p&gt;Aku tidak membuat jadwal yang sangat rinci hingga jam dan menit. Di awal memang iya detail jam dan menitnya ditulis. Tapi pada akhirnya rencana itu tidak bisa mulus dan tau intinya apa.&lt;/p&gt;
+&lt;p&gt;Aku menuliskan apa saja yang akan aku lakukan, dan estimasi atau alokasi waktu untuk aku melakukannya.&lt;/p&gt;
+&lt;p&gt;Pada akhirnya, di pagi hari aku langsung menemukan semangat karena memiliki jadwal yang seperti nya padat. Tetapi justru ketika hari tersebut dijalani, tidak ada terasa padat atau berat sekalipun.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Memberikan Error Message]]></title><description><![CDATA[Beberapa waktu lalu, aku mencoba membantu tim untuk ngoding. Tugas ngoding ini yaitu membuat sebuah endpoint baru untuk menyimpan sebuah…]]></description><link>https://satriahrh.com/blog/248-memberikan-error-message/</link><guid isPermaLink="false">https://satriahrh.com/blog/248-memberikan-error-message/</guid><pubDate>Fri, 03 Dec 2021 18:09:23 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/47b603b83e0cfd67b5f0d9fe83c755ee/07112/pexels-photo-1583884.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAHMrRfKiTWGf//EABoQAQADAAMAAAAAAAAAAAAAAAECAxEAEhT/2gAIAQEAAQUCjDUpM83KzWB3kVxT/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREv/aAAgBAwEBPwFQ0j//xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIS/9oACAECAQE/Aa0JUf/EABoQAQABBQAAAAAAAAAAAAAAAAAxARARIXH/2gAIAQEABj8Co61acIf/xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUGRUf/aAAgBAQABPyHqm7V8zFWulmkW0h9hAPBF2w+dzQep/9oADAMBAAIAAwAAABBsz//EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAIAQMBAT8QfQ6H/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEhEf/aAAgBAgEBPxCkMVZ//8QAGxABAQACAwEAAAAAAAAAAAAAAREAITFBUbH/2gAIAQEAAT8QYjoY0IwlcHsKJ9Lg6QTdJNutHkwEOiDzkCCgZZ04vmHkGKHLVz//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cover&quot;
+        title=&quot;Cover&quot;
+        src=&quot;/static/47b603b83e0cfd67b5f0d9fe83c755ee/828fb/pexels-photo-1583884.jpg&quot;
+        srcset=&quot;/static/47b603b83e0cfd67b5f0d9fe83c755ee/ff44c/pexels-photo-1583884.jpg 158w,
+/static/47b603b83e0cfd67b5f0d9fe83c755ee/a6688/pexels-photo-1583884.jpg 315w,
+/static/47b603b83e0cfd67b5f0d9fe83c755ee/828fb/pexels-photo-1583884.jpg 630w,
+/static/47b603b83e0cfd67b5f0d9fe83c755ee/0ede0/pexels-photo-1583884.jpg 945w,
+/static/47b603b83e0cfd67b5f0d9fe83c755ee/3ac88/pexels-photo-1583884.jpg 1260w,
+/static/47b603b83e0cfd67b5f0d9fe83c755ee/07112/pexels-photo-1583884.jpg 1880w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Beberapa waktu lalu, aku mencoba membantu tim untuk ngoding. Tugas ngoding ini yaitu membuat sebuah endpoint baru untuk menyimpan sebuah data dari aplikasi web. Tiba saatnya ketika hasil pekerja ku diberikan ke tester dan beliau memberikan satu catatan yang harus segera aku perbaiki.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Waktu aku kasih &lt;em&gt;ini&lt;/em&gt;, muncul error &lt;em&gt;something wrong with the database&lt;/em&gt;. Ini &lt;em&gt;error message&lt;/em&gt; nya mau diganti atau dibiarin?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Snackbar bukan umpan balik terbaik&lt;/h2&gt;
+&lt;p&gt;Di tempat sama aku ngoding tugas tersebut, aplikasi web kami sebagian besar menampilkan error message ke user menggunakan &lt;em&gt;snackbar&lt;/em&gt; yang akan hilang dalam waktu 1 sampai 3 detik. Anggap saja &lt;em&gt;user&lt;/em&gt; kami cukup tinggi minat bacanya, sehingga membaca dalam waktu singkat pun bukan masalah.&lt;/p&gt;
+&lt;div class=&quot;wp-block-image is-style-default&quot;&gt;&lt;figure class=&quot;aligncenter is-resized&quot;&gt;![Two line text label on mobile. Snackbar text label is This item already has the label “travel”. You can add a new label.](https://lh3.googleusercontent.com/1_D0EqUyc93BD_KjfgF8P-rfATNxbJUUbDkG1l-GFnYbS2KfDQjmYwMPMIpzjXK8Rt_EHGBQzt4b0s10bCw0YoomS0NuTFbHiUP-=w1064-v0)&lt;/figure&gt;&lt;/div&gt;Kemudahan *snackbar* namun sering disalah gunakan oleh oknum frontend engineer. Oknum tersebut melakukan beberapa pelanggaran.
+&lt;p&gt;Menggunakannya untuk mengembalikan &lt;em&gt;error message&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Merujuk ke &lt;a href=&quot;https://material.io/components/snackbars&quot;&gt;https://material.io/components/snackbars&lt;/a&gt;, &lt;em&gt;snackbar&lt;/em&gt; bertujuan untuk memberi tahu &lt;em&gt;user&lt;/em&gt; bahwa suatu aksi baru saja dilakukan atau dilakukan dengan informasi atau &lt;em&gt;actionable item&lt;/em&gt; yang relevan. &lt;em&gt;Error message&lt;/em&gt; mungkin adalah suatu informasi yang bagus, tetapi bisa jadi suatu yang membingungkan disebabkan oleh pelanggaran selanjutnya.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Error message&lt;/em&gt; nya adalah &lt;em&gt;raw error message&lt;/em&gt; yang dikembalikan oleh API.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Raw error message&lt;/em&gt; adalah &lt;em&gt;error message&lt;/em&gt; yang dibuat untuk dikembalikan ke &lt;em&gt;client&lt;/em&gt; dari API tersebut. Sehingga, tujuannya adalah &lt;em&gt;machine to machine communication&lt;/em&gt;. Ini tidak perlu dipertanyakan lagi karena kita sering sekali membuat error message dibuat sangat teknis sekali. Menyuruh &lt;em&gt;user&lt;/em&gt; membaca pesan yang teknis sekali rasanya bukan langkah yang bagus ya.&lt;/p&gt;
+&lt;h2&gt;Mengembalikan Error Message yang bagus&lt;/h2&gt;
+&lt;p&gt;Mengembalikan error message memang perlu, tapi perlu cara yang bagus. Kita bahkan masih bisa menggunakan &lt;em&gt;snackbar&lt;/em&gt; untuk mengembalikan &lt;em&gt;error message&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Pertama, kita harus tahu bahwa kita sedang mencoba berkomunikasi kepada orang yang merupakan &lt;em&gt;user&lt;/em&gt; kita. Gugurkan harapan bahwa &lt;em&gt;user&lt;/em&gt; mengetahui apa yang terjadi di balik layar.&lt;/p&gt;
+&lt;p&gt;Kedua, berikan pesan apapun kepada &lt;em&gt;user&lt;/em&gt; sehingga &lt;em&gt;user&lt;/em&gt; bisa mengambil kesimpulan dari nya. Artinya, &lt;em&gt;user&lt;/em&gt; tahu apa yang bisa dicoba dengan akurat ketika mendapati &lt;em&gt;error message&lt;/em&gt; tersebut.&lt;/p&gt;
+&lt;p&gt;Mengembalikan &lt;em&gt;error message&lt;/em&gt; dalam sebuah &lt;em&gt;snackbar&lt;/em&gt; mungkin bisa mencontoh ilustrasi berikut.&lt;/p&gt;
+&lt;div class=&quot;wp-block-image is-style-default&quot;&gt;&lt;figure class=&quot;aligncenter is-resized&quot;&gt;![Example of snackbar on a mobile screen](https://lh3.googleusercontent.com/-osHhhWWYPzLb8UmhUU1pmmd2q-bUj1vU8raFKcPtAxDPMdRlGixw31rhd1EcOiW6guvgFZAflH7rFF1b-D45Pk-SFmPGiBg9BpazQ=w1064-v0)&lt;/figure&gt;&lt;/div&gt;Sejujurnya, *error* memang bisa terjadi kapan saja bahkan disebabkan oleh sesuatu yang tidak kita (*engineer*) ketahui. Mencoba lagi mungkin adalah suatu langkah yang tepat.
+&lt;h2&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;/meta&gt;Mengembalikan Error Message yang juara&lt;/h2&gt;
+&lt;p&gt;Sifat dari &lt;em&gt;snackbar&lt;/em&gt; adalah pesan singkat dan bisa hilang otomatis. Di lain hal, kita mengetahui ungkapan berikut.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A picture is worth a thousand words&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Lalu, bagaimana bisa kita mengembalikan sebuah &lt;em&gt;error message&lt;/em&gt; menjadi sebuah gambar?&lt;/p&gt;
+&lt;p&gt;Di sini lah kita perlu mengantisipasi segala kemungkinan jauh sebelum kita mengerjakan.&lt;/p&gt;
+&lt;p&gt;Product design dengan senang hati akan membantu ketika kita menjabarkan batasan-batasan teknis yang bisa terjadi. Mereka akan memberikan tampilan yang sesuai untuk segala kejadian, termasuk ketika terdapat error dan bagaimana mengatasi error tersebut.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mentor Karir IT: Ingin Punya Ketika Kuliah atau Baru Lulus]]></title><description><![CDATA[Aku beruntung, ketika aku kuliah aku punya teman-teman yang jago-jago. Mereka benar-benar jenius, mereka benar-benar memperhatikan masa…]]></description><link>https://satriahrh.com/blog/121-mentor-karir-it-ingin-punya-ketika-kuliah-atau-baru-lulus/</link><guid isPermaLink="false">https://satriahrh.com/blog/121-mentor-karir-it-ingin-punya-ketika-kuliah-atau-baru-lulus/</guid><pubDate>Mon, 31 May 2021 13:59:09 GMT</pubDate><content:encoded>&lt;p&gt;Aku beruntung, ketika aku kuliah aku punya teman-teman yang jago-jago. Mereka benar-benar jenius, mereka benar-benar memperhatikan masa depannya. Mereka benar-benar mempersiapkannya.&lt;/p&gt;
+&lt;p&gt;Di saat teman-teman yang lain melakukan sesuatu yang kurang produktif untuk karir masa depannya (setidaknya untuk Software Engineer dan secara subjektif), teman-teman di sini tidak tergoda sedikit pun dan tekun untuk mempersiapkan masa depannya (sambil ngewibu dan ngidol dikit juga boleh laaah).&lt;/p&gt;
+&lt;p&gt;Mereka benar-benar mempersiapkan masa depan karirnya&lt;/p&gt;
+&lt;p&gt;Tetapi aku terlalu malu untuk bertanya. Aku kira aku tertinggal jauh. Sekali lagi aku cukup beruntung berada di sekeliling mereka. Aku pun belajar sekuat tenaga, belajar apapun yang mereka sudah tau, belajar tanpa tujuan kecuali karena teman-temanku sudah pada bisa.&lt;/p&gt;
+&lt;p&gt;Lalu, apa yang terjadi dengan teman-teman yang lain yang seberuntung aku dan tidak dikelilingi teman-teman seperti itu? Mereka yang cukup pintar, mereka benar-benar mendapatkannya. Mereka yang lain, ternyata masih cukup beruntung karena latar belakang studi nya adalah IT, yang aku rasa mereka masih bisa mendapatkan sesuatu yang lebih.&lt;/p&gt;
+&lt;p&gt;Aku ingin diberi tahu&lt;/p&gt;
+&lt;p&gt;Aku ingin diberi tahu juga, begitupun teman-teman hebatku, begitupun teman-teman yang mereka kurang cukup puas dengan yang mereka peroleh sekarang. Selama aku mempersiapkan, selama mereka mempersiapkan, terlalu buta untuk meraba masa depan. Dosen? Kuliah? Aku harap kurikulum di kuliah cukup dekat dengan dengan dunia industri.&lt;/p&gt;
+&lt;p&gt;Teman-temanku yang hebat, yang saat ini sedang berada di awal puncak kesuksesannya, juga ingin diberi tahu. Teman-temanku yang hebat mengingat banyaknya waktu mereka terbuang untuk melakukan sesuatu yang kurang produktif, berharap ketika itu ingin diberi tahu.&lt;/p&gt;
+&lt;p&gt;Seorang sosok&lt;/p&gt;
+&lt;p&gt;Bagaimana jika ada seorang yang sudah berkarir menjadi Software Engineer dan sudah terbiasa memberikan arahan dan panduan ke bawahannya, kemudian dia merelakan sedikit waktunya untuk adik-adiknya yang sedang mempersiapkan karirnya, untuk membantu mengarahkan jalan menuju dirinya yang terbaik di karir?&lt;/p&gt;
+&lt;p&gt;Aku, yang sekarang sudah berkarir, ingin sekali mendapatkan sosok seperti itu. Aku, yang sekarang biasa memimpin sebuah tim engineer, ingin sekali mendapatkan sosok seperti itu. Aku, yang terbiasa debat sana sini kawan lawan bawahan atasan rutinitas kerja membuat solusi karya bangsa paling mujarab, ingin sekali mendapatkan sosok seperti itu.&lt;/p&gt;
+&lt;p&gt;Maka ketika aku, yang saat itu sedang buta atas tugas akhir atau skripsi akhir untuk kelulusannya, seharusnya makin butuh akan sosok itu. Maka ketika aku, yang saat itu sedang asik-asiknya menikmati dunia kuliah tanpa beban, seharusnya makin butuh akan sosok itu. Maka ketika aku, yang saat itu sedang asik-asiknya baru punya adik tingkat, seharusnya makin butuh akan sosok itu. Maka ketika aku, yang saat itu sedang asik-asiknya jauh dari orang tua untuk memulai kuliah, seharusnya makin butuh akan sosok itu.&lt;/p&gt;
+&lt;p&gt;Lalu kamu, apakah kamu membutuhkan sosok itu?&lt;/p&gt;
+&lt;p&gt;Untuk kamu, teman-teman yang masih berjuang di kuliah atau baru saja lulus dan butuh sosok itu, &lt;strong&gt;aku siap menjadi sosok itu&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Semua akun sosial media ku terbuka lebar untuk kamu.&lt;/p&gt;
+&lt;p&gt;1o1 meeting (via voice/video call antara kamu dan aku) untuk membahas karir dan goals kamu, adalah sesuatu yang biasa saya lakukan untuk teman-teman saya di tim engineer, juga siap saya hadirkan ke teman-teman semua.&lt;/p&gt;
+&lt;p&gt;Ragu, takut, malu? Untuk masa depan karir mu, serius?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Perjalanan menuju Google Professional Cloud Architect (1)]]></title><description><![CDATA[Tepat beberapa jam yang lalu, saya telah menyelesaikan kursus pertama dari Google pada seri “Cloud Architecture with Google Cloud…]]></description><link>https://satriahrh.com/blog/93-perjalanan-menuju-google-professional-cloud-architect-1/</link><guid isPermaLink="false">https://satriahrh.com/blog/93-perjalanan-menuju-google-professional-cloud-architect-1/</guid><pubDate>Sun, 04 Apr 2021 14:59:01 GMT</pubDate><content:encoded>&lt;p&gt;Tepat beberapa jam yang lalu, saya telah menyelesaikan kursus pertama dari Google pada seri “Cloud Architecture with Google Cloud Professional Certificate” yang tersedia di Coursera. Kursus tersebut adalah “Google Cloud Platform Fundamentals: Core Infrastructure”. Dengan saya menyelesaikan kursus pertama dari serial ini, saya menganggapnya sebagai langkah nyata pertama untuk memperoleh sertifikat “Professional Cloud Architect” dari Google Cloud.&lt;/p&gt;
+&lt;h2&gt;Untuk Apa Sertifikasi?&lt;/h2&gt;
+&lt;p&gt;Hal yang paling nyata yang bisa didapatkan dari sertifikasi adalah pengakuan ril atas apa yang telah kita capai. Melalui &lt;a href=&quot;https://cloud.google.com/certification/cloud-architect&quot;&gt;laman resmi nya&lt;/a&gt;, siapapun yang mendapatkan sertifikat ini memiliki kemampuan untuk mendesain, membangun, dan mengelola sebuah solusi mendukung bisnis yang tanggung, aman, elastik, selalu tersedia, dan dinamis. Selain memiliki keahlian yang disebutkan, pemegang sertifikat juga sudah pasti memiliki pengetahuan akan teknologi Google Cloud, termasuk menentukan teknologi mana yang harus dipakai dalam keadaan tertentu.&lt;/p&gt;
+&lt;p&gt;Pengakuan itu penting, dan itu nyata. Berguna sekali jika kita ingin memperoleh kesempatan karir yang baru, yang lebih menjanjikan. USD 175.761 per tahun adalah angka dari gaji rata-rata pemegang sertifikat ini, bisa dibaca lebih lengkap &lt;a href=&quot;https://www.globalknowledge.com/us-en/resources/resource-library/articles/top-paying-certifications/#1&quot;&gt;di sini&lt;/a&gt;, meskipun begitu saya juga tidak terlalu berharap untuk mendapatkan angka sebesar itu untuk di Indonesia.&lt;/p&gt;
+&lt;h2&gt;Untungnya Sertifikasi Ini Untuk Karir?&lt;/h2&gt;
+&lt;p&gt;Pertanyaan sebelumnya mungkin lebih mengarah ke kegunaan secara umum, namun di pertanyaan ini lebih menjurus ke kegunaan secara spesifik.&lt;/p&gt;
+&lt;p&gt;Perjalanan untuk memperoleh sertifikasi ini begitu panjang dan membutuhkan persiapan. Persiapan meliputi belajar, memahami, hingga praktik. Persiapan tersebut menuntut kita untuk bisa memperoleh keahlian yang dituntut dari sertifikasi ini. Menurut hemat saya, keahlian adalah satu-satunya kentuntungan terbesar yang akan kita peroleh.&lt;/p&gt;
+&lt;p&gt;Teknologi &lt;em&gt;cloud computing&lt;/em&gt; semakin marak akhir-akhir ini, banyak digunakan oleh startup hingga korporat. Memiliki keahlian di bidang ini, khusus nya di arsitektur, sangat membuat nilai kamu di mata industri semakin tinggi.&lt;/p&gt;
+&lt;p&gt;Keahlian untuk membuat arsitektur cloud paling jelas menunjang mereka yang ingin mengejar jalur &lt;em&gt;individual contributor&lt;/em&gt; atau &lt;em&gt;technical&lt;/em&gt;. Karena infrastruktur mulai digunakan, setidaknya pengetahuan dasar harus dimiliki untuk bisa memberikan solusi teknis yang tepat. Namun pengetahuan dasar saja kadang tidak bisa menjadi jaminan, bagusnya sertifikasi ini mencakup bagaimana melakukan arsitektur sebelum barangnya jadi termasuk memahami studi kasus.&lt;/p&gt;
+&lt;p&gt;Saya secara personal sangat berharap pada sertifikasi ini, meskipun tujuan karir saya di jalur &lt;em&gt;managerial&lt;/em&gt;. Bisa ‘ngatur’ orang saja tidak cukup di industri ini, bahkan kita tidak bisa masuk ke posisi managerial tanpa ada pengalaman dan latar belakang IT. Hal ini menuntut saya pribadi untuk juga harus menguasai kemampuan teknis. Dalam hal ini, sertifikasi ini memberikan tambahan keahlian di sisi arstitektur cloud.&lt;/p&gt;
+&lt;h2&gt;Bagaimana Mempersiapkannya?&lt;/h2&gt;
+&lt;p&gt;Pastikan kita setuju bahwa persiapan sebelum ujian sertifikasi itu penting. Sama halnya kita juga mempersiapakn ujian masuk perguruan tinggi, ujian sekolah, atau bahkan kuis ulangan ketika di sekolah.&lt;/p&gt;
+&lt;p&gt;Kondisinya mungkin berbeda dari apa yang kita alami ketika di sekolah, ada guru yang mengarahkan hingga mengajari kita untuk bisa mengerjakan ujian dengan nilai yang sempurna.&lt;/p&gt;
+&lt;p&gt;Jika mau riset sedikit, panduan belajar sebenernya sudah disediakan lengkap oleh Google Cloud melalui &lt;a href=&quot;https://cloud.google.com/certification/cloud-architect&quot;&gt;laman resminya&lt;/a&gt;, bahkan lengkap disertai tautannya. Jika ingin mempersiapkan sertifikasi yang lain pun, panduannya lengkap ada &lt;a href=&quot;https://cloud.google.com/training#learning-paths&quot;&gt;di sini&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tidak perlu khawatir jika kamu kurang bisa belajar secara mandiri, kita bisa mengikuti kelas persiapan ujian sertifikasi secara virtual maupun tatap muka.&lt;/p&gt;
+&lt;h2&gt;Bagaimana Saya Mempersiapkan?&lt;/h2&gt;
+&lt;p&gt;Saya suka membaca, setidaknya setelah beli kindle beberapa waktu lalu, &lt;a href=&quot;https://satriahrh.com/blog/2021/03/13/80/pengalaman-punya-kindle-paperwhite/&quot;&gt;selengkapnya baca di sini&lt;/a&gt;. Akhirnya beli lah saya panduan belajar resmi dengan judul, “Official Google Cloud Certified Professional Cloud Architect Study Guide” oleh Dan Sulivan. Saya beli dalam format ebook ketika ada promo bundle (IDR 100rban dapat belasan judul dengan tema sejenis), sebab ketika pertama cari &lt;a href=&quot;https://www.amazon.com/dp/B07YW39WJN/ref=cm_sw_em_r_mt_dp_671TVJPXT9DVRNZ81EQH&quot;&gt;di Amazon&lt;/a&gt; harganya mahal sekali.&lt;/p&gt;
+&lt;p&gt;Berbulan-bulan mencoba mendisiplinkan diri membaca panduan, ternyata susah. Apalagi saya belum terlalu menguasai produk-produk Google Cloud, terutama untuk networking, machine learning, dan storage. Akhirnya saya memutuskan untuk mencoba mengikuti kursus.&lt;/p&gt;
+&lt;p&gt;Kursus yang paling mungkin untuk saya ikuti adalah kursus yang tersedia di Coursera dan disediakan secara resmi oleh Google Cloud Training. Kursus ini merupakan kursus serial yang terdiri dari 7 kursus individual. Masing-masing bisa diikuti tanpa harus mengambil semuanya, hanya saja sangat direkomendasikan oleh penyedia untuk mengambil semuanya secara berurutan.&lt;/p&gt;
+&lt;p&gt;Seperti kursus yang tersedia kebanyakan di Coursera, terdapat video penjelasan, referensi yang bisa diakses, kuis latihan, kuis tugas, dan yang paling menarik adalah kita bisa mengakses Qwiklabs secara gratis. Akses ke Qwiklabs ini yang paling membuat saya tertarik untuk mengikuti, karena penjelasan teori dan kuis saja kadang belum terbayang. Ingin mencoba-coba sendiri di google cloud nya juga lumayan karena harus keluar uang lebih. Dengan adanya akses ke Qwiklabs, kita bisa mencoba-coba beberapa hal sesuai dengan panduan yang sudah ada.&lt;/p&gt;
+&lt;p&gt;Jika kamu tertarik untuk mengikuti serial kursusnya di Coursera bisa dilihat melalui &lt;a href=&quot;https://www.coursera.org/professional-certificates/gcp-cloud-architect&quot;&gt;tautan ini&lt;/a&gt;. Kemahalan ya? Ada promo menarik yang sepertinya lumayan membantu, bisa dicek &lt;a href=&quot;https://coursera.org/share/e0361fb95865dcc8331e328f7ef74a94&quot;&gt;di sini&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Testimoni Course 1: Google Cloud Platform Fundamentals&lt;/h2&gt;
+&lt;p&gt;Sesuai dengan judul dan urutannya yang ditempatkan pertama, secara garis baris menjelaskan tentang konsep utama dan beberapa terminologi yang dipakai di Google Cloud. Untuk saya pribadi, kursus ini membuat saya mengetahui secara singkat teknologi yang ada di Google Cloud dan kegunaan singkat.&lt;/p&gt;
+&lt;p&gt;Beberapa penjelasan memang sangat singkat dan masih banyak yang harus dieksplor. Namun jika kami setuju dengan tujuan awal dari kursus ini, cukup mengikuti alur kursus nya saja seharusnya sudah cukup.&lt;/p&gt;
+&lt;p&gt;Video penjelasan dibuat dalam durasi yang pendek, kebanyakan 4-7 menit. Setelah 2 atau 3 video biasanya diikuti oleh kuis latihan singkat berisi 2-3 soal pilihan ganda, sangat membantu untuk mengingat kembali poin poin penting.&lt;/p&gt;
+&lt;p&gt;Di setiap modul terdapat grading external tools, alias Qwiklabs, favorit saya. Qwiklabs adalah platform hands on training, bukan seperti coursera yang menyajikan materi dalam bentuk video, tulisan dan kuis. Untuk kursus ini, Qwiklabs menyediakan panduan untuk melakukan sebuah quest. Dalam quest tersebut, kita dibekali akun Google. Dari akun Google ini kita bisa masuk ke console.cloud.google.com dan melakukan beberapa tugas secara gratis.&lt;/p&gt;
+&lt;p&gt;Saya menghabiskan waktu untuk menyelesaikan kursus 1 ini sekitar 4-6 jam, saya selesaikan dari Sabtu malam dan dilanjutkan Minggu pagi.&lt;/p&gt;
+&lt;p&gt;Setelah menyelesaikan kursus pertama ini, kita akan langsung dapat sertifikat atas selesainya kursus pertama ini. Berikut contoh &lt;a href=&quot;https://www.coursera.org/account/accomplishments/certificate/D8AZMWAV4ZBE&quot;&gt;sertifikatnya&lt;/a&gt;, setidaknya bisa dipasang di Linkedin atau dilampirkan di CV kaan?&lt;/p&gt;
+&lt;p&gt;Jika kamu ingin tau lebih lanjut tentang kursusnya, bisa dicek &lt;a href=&quot;https://www.coursera.org/learn/gcp-fundamentals?specialization=gcp-cloud-architect&quot;&gt;di tautan ini&lt;/a&gt;. Saya akan memberikan kabar terbaru tentang persiapan ujian sertfikasi Professional Cloud Architect ini insyaAllah secara berkala.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Pengalaman Punya Kindle Paperwhite]]></title><description><![CDATA[Setiap orang punya caranya sendiri dalam melakukan hobi, bersenang-senang, hingga belajar. Akhir-akhir ini, orang bisa melakukan hobi lama…]]></description><link>https://satriahrh.com/blog/80-pengalaman-punya-kindle-paperwhite/</link><guid isPermaLink="false">https://satriahrh.com/blog/80-pengalaman-punya-kindle-paperwhite/</guid><pubDate>Fri, 12 Mar 2021 17:42:13 GMT</pubDate><content:encoded>&lt;p&gt;Setiap orang punya caranya sendiri dalam melakukan hobi, bersenang-senang, hingga belajar. Akhir-akhir ini, orang bisa melakukan hobi lama mereka melalui teknologi mutakhir. Contohnya ada orang suka menonton pertunjukan atau teater atau tv atau bioskop, namun sekarang mereka bisa melakukan itu semua melalui smartphone canggih dengan beragam aplikasinya. Untuk saya yang hobi sekali membaca buku atau komik, dari belajar hingga bersenang-senang saja, ada teknologi mutakhirnya juga, Kindle.&lt;/p&gt;
+&lt;h2&gt;Kindle adalah&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Kamu bisa lewati tiga paragraf ini jika sudah tahu apa itu Kindle.&lt;/strong&gt; Untuk kamu yang belum tahu, saya bisa dengan mudah menjelaskannya dengan “table yang hanya bisa buat baca, umunya layarnya hanya hitam putih saja.” Terkesan sangat primitif? Lebih baik beli tablet yang fiturnya lebih kaya? Jawaban saya sih tidak juga, karena layar kindle ini jauh sangat ramah untuk dilihat berjam-jam tanpa membuat mata lelah dan pusing.&lt;/p&gt;
+&lt;p&gt;Layar pada Kindle berbeda dengan smartphone atau tablet. Umumnya layar smarthpone menggunakan teknologi berupa LCD atau OLED, membuatnya sangat responsif dan tetap kaya warna untuk memberikan visual yang menarik. E ink, adalah teknologi yang dipakai pada layar kindle. Tampilan yang dihasilkan sangat mirip dengan kertas yang ditulisin tinta, lebih hemat energi, tidak perlu memancarkan cahaya yang menyilaukan.&lt;/p&gt;
+&lt;p&gt;Secara umum, teknologi semacam Kindle ini menawarkan pengalaman membaca yang menakjubkan. Terlepas tampilannya yang hitam putih saja dan terkenal tidak responsif, semua jenis Kindle dan bahkan produk pesaingnya pun menggunakan teknologi e ink karena memang sudah terbukti merupakan &lt;em&gt;state of the art&lt;/em&gt; untuk pengalaman membaca terbaik. Lalu berbagai macam jenis Kindle dan produk pesaing lah yang memberikan fitur tambahan, ukuran, dan fungsi ergonomis untuk memberikan nilai jual tersendi dan bisa menjangkau semua pasar.&lt;/p&gt;
+&lt;h2&gt;Kindle Jenis Mana yang Bagus?&lt;/h2&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;![](https://i0.wp.com/images-na.ssl-images-amazon.com/images/I/61eAq6gg-XL._AC_SL1000_.jpg?w=1200&amp;ssl=1)&lt;figcaption&gt;Kindle Paperwhite&lt;/figcaption&gt;&lt;/figure&gt;Sekitar akhir Desember tahun 2020 saya memutuskan untuk membeli Kindle Paperwhite 4, dilihat dari pilihan yang ada jenis Kindle yang satu ini sepertinya ditujukan untuk mereka yang sudah *commit* untuk membaca dengan fitur yang cukup. Di Indonesia harganya sekitar 2 juta hingga 2.3 juta, fiturnya sedikit lebih lengkap dari jenis di bawahnya yang harganya 1.5 jutaan, meskipun fiturnya jauh daripada jenis di atasnya yang harganya sekitar 4 jutaan ke atas.
+&lt;figure class=&quot;wp-block-image&quot;&gt;![](https://i0.wp.com/images-na.ssl-images-amazon.com/images/I/61Ww4abGclL._AC_SL1000_.jpg?w=1200&amp;ssl=1)&lt;figcaption&gt;Kindle Basic&lt;/figcaption&gt;&lt;/figure&gt;Di masa itu, Kindle (aja, jenis Kindle yang paling basic) bentuknya mirip dengan Kindle Paperwhite 4. Perbedaannya paling mencolok di pelindung belakang dan luas layar. Kerapatan e ink pada Kindle basic juga jauh daripada Kindle Paperwhite 4, untuk menampilkan gambar sangat kurang jika hanya memakai Kindle Basic.
+&lt;figure class=&quot;wp-block-image&quot;&gt;![](https://i0.wp.com/images-na.ssl-images-amazon.com/images/I/61moEqqnwzL._AC_SL1000_.jpg?w=1200&amp;ssl=1)&lt;figcaption&gt;Kindle Oasis&lt;/figcaption&gt;&lt;/figure&gt;Jenis Kindle yang paling mahal kala itu adalah Kindle Oasis. Paling mencolok dibanding yang lain yaitu desain pinggirannya yang jauh berbeda, memungkinkan kita untuk membaca menggunakan satu tangan dengan mudah. Luas layar nya pun juga lebih luas, kerapatan e ink juga paling bagus. Baca komik paling cocok di jenis ini.
+&lt;h2&gt;Beli di Indonesia Lebih Mudah di Tokopedia — bukan endorse&lt;/h2&gt;
+&lt;p&gt;Mencari Kindle di Indonesia cukup mudah, tetapi kamu tidak akan mendapatkannya di Indonesia secara resmi dalam artian dari retail resmi Amazon selaku produsen. Kala itu saya mendapatkannya di Tokopedia, dibandingkan &lt;em&gt;marketplace&lt;/em&gt; yang ada hanya Tokopedia yang memiliki penjual Kindle paling banyak dengan harga yang kompetitif dan reputasi penjual yang bagus.&lt;/p&gt;
+&lt;p&gt;Penjual yang ada di Indonesia umumnya memesan dari luar negeri sebagai pembeli biasa tetapi dengan jumlah yang banyak. Ketika sampai di Indonesia, mereka mengambil untung biasanya dari ongkos kirim, pajak, dan nilai pelayanan yang ditawarkan.&lt;/p&gt;
+&lt;p&gt;Untuk kebutuhan klain garansi atas kerusakan pada Kindle, kamu perlu menanyakannya lebih jauh kepada penjual. Kamu mungkin tidak bisa melakukan klaim garansi sendiri dan perlu dibantu oleh penjual. Referensi terkait klaim garansi bisa dilihat &lt;a href=&quot;https://www.amazon.com/gp/help/customer/display.html?nodeId=201014520&quot;&gt;di sini&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Pengalaman &lt;em&gt;Unboxing&lt;/em&gt; Pertama Kindle Paperwhite?&lt;/h2&gt;
+&lt;p&gt;Kaget ketika pertama kali terima barangnya dari kurir. Kemasannya tidak jauh lebih luas dari empat buku tabungan dikumpulkan, tebalnya masih tebal dompet saya :v. Kurirnya pergi, dalam hati saya berusaha meyakinkan bahwa saya tidak beli barang kecil tapi mahal yang ternyata ga jauh beda dari hp butut saya.&lt;/p&gt;
+&lt;p&gt;Masuk rumah langsung lah dibuka kemasannya, menarik dan unik. Tanpa gimik tidak berguna dan isinya tepat sasaran: barangnya, kabel data USB untuk &lt;em&gt;charging&lt;/em&gt;, buku petunjuk, kartu garansi.&lt;/p&gt;
+&lt;p&gt;Pertama kali menyalakan, kamu perlu menekan tombol power yang ada di bawah (lupa, apakah perlu lama atau sebentar saja). Setelah ditekan, pohon dan login kindle di layar seketika berubah masuk ke tampilan loading. Kamu mungkin perlu menyediakan koneksi Wifi untuk kebutuhan pembuatan akun Amazon dan Goodreads, dan pendaftaran &lt;em&gt;device&lt;/em&gt; kamu ke akun Amazon.&lt;/p&gt;
+&lt;p&gt;Setelah selesai, kamu mestinya langsung disuguhi rekomendasi e book yang mungkin kamu suka. Kamu juga bisa langsung melakukan pembelian e book di &lt;em&gt;device&lt;/em&gt; Kindle, menggunakan metode pembayaran kartu debit atau kartu debit.&lt;/p&gt;
+&lt;h2&gt;Pengalaman Navigasi, Tamtpilan, dan Bentuk&lt;/h2&gt;
+&lt;p&gt;Sangat bagus, tampilannya lebih nyaman baca pakai Kindle daripada di smartphone. Ukurannya sedikit mengkhawatirkan memang di awal, tapi setelah dipakai cukup lama juga terbiasa dan malah menganggap ukuran nya memang pas.&lt;/p&gt;
+&lt;p&gt;Beratnya juga cukup ringan, hampir sama dengan novel dengan bahan paperback pada umumnya. Pegangannya memungkinkan cukup kuat, namun tetap harus pintar mencari posisi tangan yang enak.&lt;/p&gt;
+&lt;p&gt;Secara umum tampilan ketika membuat ebook sangat menakjubkan dan sangat fleksibel tergantung konfigurasi kita dan konfigurasi dari ebook nya itu sendiri. Namun tidak semua buku cetak hanya berisikan tulisan panjang macam novel, beberapa memberikan ilustrasi yang komplek dan panjang. Beberapa buku mungkin perlu dicetak secara fisik karena membutuhkan visualisasi warna yang mendukung. Beberapa buku mungkin dicetak lebar dan terdapat semacam catatan samping. Dalam hal ini, Kindle tidak bisa mengakomodir kebutuhan tampilan yang sangat spesifik.&lt;/p&gt;
+&lt;p&gt;Typografi novel sangat cocok dibaca menggunakan Kindle, aliran kata-katanya pas dengan konfigurasi tampilan yang bisa kita sesuaikan seenak jidat. Loncat-loncat antar halaman juga enak, beberapa e book (jika kamu mendapatkannya secara legal) memiliki fitur daftar isi yang bisa ditekan ke bagian tertentu.&lt;/p&gt;
+&lt;h2&gt;Pengalaman Membaca&lt;/h2&gt;
+&lt;p&gt;Enak. Nyaman. Tidak pusing.&lt;/p&gt;
+&lt;p&gt;Dibanding membaca buku cetak jauh lebih nyaman, yang kadang di buku cetak saya suka pusing karena tulisan kekecilan. Jika halaman habis juga tidak perlu repot atur ulang posisi tangan karena sangat mudah menggeser halaman dengan &lt;em&gt;swipe&lt;/em&gt; samping atau sentuh.&lt;/p&gt;
+&lt;p&gt;Layar pada Kindle memang bisa diatur intensitas cahaya yang dihasilkan, berguna jika kita membaca dalam kondisi gelap. Fitur pencahayaan ini ternyata jarang saya gunakan. Siang hari, sinar cukup terang membuat membaca Kindle seperti membaca buku biasa, tingkat pencahayaan bisa saya atur nol. Sore sampai malam, mengandalkan penerangan lampu ruang masih sangat cukup. Malam menjelang tidur di kasur, lampu kamar sudah berganti lampu tidur, kadang perlu saya atur pencahayaan pada Kindle sampai level tujuh maksimal meskipun tiga kadang-kadang sudah cukup.&lt;/p&gt;
+&lt;h2&gt;Mengapa harus pakai Kindle?&lt;/h2&gt;
+&lt;p&gt;Tidak harus! Saya tidak pernah bilang harus pakai Kindle jika hanya ingin membaca, bahkan membaca berita juga cukup susah jika dari Kindle. Meskipun mungkin, membaca artikel online juga cukup rumit melalui fitur &lt;em&gt;Experimental Brower&lt;/em&gt; karena fiturnya belum cukup canggih untuk mengakomodir tampilan web masa kini yang cukup dinamis. Pun kamu juga akan menemukan kendala ketika membaca e book PDF, beberapa e book mungkin tidak berhasil dikonversi oleh Kindle ke dalam format yang memungkinkan kamu memberikan konfigurasi tampilan yang sesuai.&lt;/p&gt;
+&lt;p&gt;Secara umum, Kindle lumayan mengubah hidup saya. 1 Januari 2021 (atau 2 atau berapa lupa), saya membeli domain satriahrh.com untuk sebagai blog saya. Blog ini awalnya saya buat sebagai tempat untuk menampung pikiran saya yang terus &lt;em&gt;membeludak&lt;/em&gt; karena terlalu banyak saya membaca di Kindle dengan mudahnya.&lt;/p&gt;
+&lt;p&gt;Dibandingkan menonton video edukasi, kursur online, atau kelas pembelajar, saya cenderung memberikan preferensi terhadap e book referensi untuk bisa saya baca secara mendalam dan fleksibel.&lt;/p&gt;
+&lt;p&gt;Sesingkat waktu saya menunggu menghabiskan makan siang ketika wfh, membaca melalui Kindle sangat praktis (meskipun kadang smartphone lebih menggoda karena ada medsos nya). Pengantar tidur juga lebih nyaman dengan Kindle, layarnya tidak membuat melek karena cahayanya tidak menusuk mata.&lt;/p&gt;
+&lt;p&gt;Karena mudah dibawa, saya selalu membawa Kindle jika terdapat kemungkinan adanya waktu tunggu. Servis motor dan beli makan yang perlu antri, sudah pasti bawa Kindle. Sejam dua jam sangat berharga, membaca Kindle dengan praktis sangat berguna dan asik. Jika bosan membaca judul tertentu, tidak perlu khawatir karena kamu sudah membawa perpustakaan berjalan.&lt;/p&gt;
+&lt;p&gt;Sudah serasa perpustakaan pribadi. Bahkan jika kamu merasa koleksimu belum lengkap, bisa cari-cari buku langsung di Kindle nya, langsung bisa kamu bayar juga, langsung bisa kamu baca seketika.&lt;/p&gt;
+&lt;p&gt;Tidak pernah harus pakai Kindle. Namun jika kamu ingin mengubah gaya hidup membaca kamu lebih baik, punya Kindle Paperwhite mungkin awalan yang bagus. Kindle basic pun tidak masalah. Kindle Oasis, sepertinya kurang cocok jika kamu masih ragu-ragu, kecuali 4 juta bukan sesuai yang banyak buat kamu.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Error Handling in Go: Neat and Clean Way]]></title><description><![CDATA[I expect you were wondering about doing a throw – try – catch like we used to do in Java, or raise – except like we used to do in Ruby, or…]]></description><link>https://satriahrh.com/blog/67-error-handling-in-go-neat-and-clean-way/</link><guid isPermaLink="false">https://satriahrh.com/blog/67-error-handling-in-go-neat-and-clean-way/</guid><pubDate>Fri, 12 Mar 2021 15:21:09 GMT</pubDate><content:encoded>&lt;p&gt;I expect you were wondering about doing a &lt;code&gt;throw&lt;/code&gt; – &lt;code&gt;try&lt;/code&gt; – &lt;code&gt;catch&lt;/code&gt; like we used to do in Java, or &lt;code&gt;raise&lt;/code&gt; – &lt;code&gt;except&lt;/code&gt; like we used to do in Ruby, or other likely error handling strategy in other languages. But I have to tell you, first of all, those kinds of strategies are not the way of error handling in Go. So you will be getting a new error handling strategy that is completely different from other languages we used to do.&lt;/p&gt;
+&lt;p&gt;In this article, I will provide you with three error handling that can be done in Go. The first strategy is applying &lt;code&gt;panic&lt;/code&gt; – &lt;code&gt;recover&lt;/code&gt; which is very similar with the error handling strategy in other languages. Second, I will introduce to you of writing a go function that have at least returning one value of &lt;code&gt;error&lt;/code&gt;. Finally, learning from the second strategy, I will provide you a neat and clean way on handling error in Go.&lt;/p&gt;
+&lt;h2&gt;Don’t do this in Go unless you have to&lt;/h2&gt;
+&lt;p&gt;Take an example in Java. When you call a method, any method, you do not expect it to throw an error. You just expect it to the way it is.&lt;/p&gt;
+&lt;p&gt;This kind of thing wasn’t told for beginners who just learned Java. I am the one who pretty late figuring what error handle means in Java. Catching an error using &lt;code&gt;catch&lt;/code&gt; the statement doesn’t make sense to me.&lt;/p&gt;
+&lt;p&gt;This is pretty common in Java, so I lend some rows of code in Java demonstrating error handling from &lt;a href=&quot;https://www.javatpoint.com/exception-handling-in-java&quot;&gt;JavaTPoint&lt;/a&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;#x3C;pre class=&quot;wp-block-code&quot;&gt;```
+public class JavaExceptionExample{  
+  public static void main(String args[]){  
+    try{  
+      //code that may raise exception  
+      int data=100/0;  
+    }catch(ArithmeticException e){
+      System.out.println(e);}  
+      //rest code of the program   
+   System.out.println(&quot;rest of the code...&quot;);  
+  }  
+}  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;
+In go, you could do the same. But this is very uncommon. I even rarely see in Go tutorials using this methods:
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&quot;wp-block-code&quot;&gt;```
+func main() {
+  doSomeOperation()
+  if r := recover(); r != nil {
+    fmt.Println(&quot;Recovered: &quot;, r) 
+  }
+}
+```
+```
+
+Or it can be done this way to support multiple operation
+
+```
+&lt;pre class=&quot;wp-block-code&quot;&gt;```
+func main() {
+  defer func() {
+    if r := recover(); r != nil {
+      fmt.Println(&quot;Recovered: &quot;, r) 
+    }
+  }()
+  doSomeOperation()
+  doAnotherOperation()
+}
+```
+```
+
+A function that at least return an error
+----------------------------------------
+
+If you just started Go, you might found this likely error handling.
+
+```
+&lt;pre class=&quot;wp-block-code&quot;&gt;```
+func doSomething(action string) error {
+  if action == &quot;&quot; {
+    return fmt.Errorf(&quot;blank action error&quot;)
+  }
+  fmt.Println(action)
+  return nil
+}
+```
+```
+
+Observe that `doSomething(string) error` is a function that return an `error`. Refer to [a section from Effective Go](https://golang.org/doc/effective_go#errors), the function can be in a form of multivalued return function with `error` at the end.
+
+We can call `doSomething(string) error` as follow. Observe that we expect a value to be returned from the function. If the function do catch an error, the value of `err` should be `nil`.
+
+```
+&lt;pre class=&quot;wp-block-code&quot;&gt;```
+func main() {
+  err := doSomething(&quot;run&quot;)
+  if err != nil {
+    fmt.Printf(&quot;Found an error: %v\n&quot;, err)
+  } else {
+    fmt.Println(&quot;Succeed&quot;)
+  }
+}
+```
+```
+
+This is the desired way of error handling in Go.
+
+Don’t just return an error, handle it
+-------------------------------------
+
+Now that you know the desired way of handling an error in Go, things will get complicated as your codebase grows larger. This is quite a problem in the Go community, even it is mentioned in the documentation of `pkg/error`.
+
+Let say that your Go application builds on some layers, which is very common. The problem with traditional error handling in Go is that we want an error message that needs to return to the user, but in which layer we should define the error message for the user?
+
+The idea is **do not trust anyone outside, trust anyone inside**.
+
+Observe the following code satisfying the idea. I also put a comment on some line to be able for you understand the idea.
+
+```
+&lt;pre class=&quot;wp-block-code&quot;&gt;```
+package main
+
+import (
+  &quot;encoding/json&quot;
+  &quot;fmt&quot;
+)
+
+func main() {
+  rawData := `{&quot;info&quot;: &quot;this is the info&quot;}`
+  err := PrintInfo(rawData)
+  if err != nil {
+    // this is where the error will be given to the user
+    fmt.Println(&quot;Error printing current hostname with following error: %v&quot;, err)
+  }
+}
+
+type Data struct {
+  Info string
+}
+
+func PrintInfo(raw string) error {
+  data, err := GetData(raw)
+  if err != nil {
+    // this line return the error right away
+    //   because she trust anyone from inside
+    return err
+  }
+  fmt.Println(data.Info)
+  return nil
+}
+
+func GetData(raw string) (Data, error) {
+  data := Data{}
+  err := json.Unmarshal([]byte(raw), &amp;data)
+  if err != nil {
+    // this line don&apos;t return the given error from json.Unmarshal
+    //  instead, she create their customized error
+    //  because she don&apos;t trust anyone outside
+    return Data{}, fmt.Errorf(&quot;cannot parse the data&quot;)
+  }
+  return data, nil
+}
+
+```
+```
+
+See? It is much better than customizing all error or returning all the error right away.
+
+Ending
+------
+
+That’s all I have. What do you think of it? Tell your friend about this, let them know how I handle error in Go so we can discuss further. And let me know your thought on a comment or any. Thanks.</content:encoded></item><item><title><![CDATA[Perfect Quality of Software is Impossible]]></title><description><![CDATA[I just got a chance to take a course on Engineering Practices for Building Quality Software. I have just started the course. The…]]></description><link>https://satriahrh.com/blog/70-perfect-quality-of-software-is-impossible/</link><guid isPermaLink="false">https://satriahrh.com/blog/70-perfect-quality-of-software-is-impossible/</guid><pubDate>Tue, 02 Feb 2021 16:41:57 GMT</pubDate><content:encoded>&lt;p&gt;I just got a chance to take a course on &lt;a href=&quot;https://www.coursera.org/learn/engineering-practices-secure-software-quality&quot;&gt;Engineering Practices for Building Quality Software&lt;/a&gt;. I have just started the course. The introduction is very intriguing. So far, I am fully aware that we should have to build high-quality software.&lt;/p&gt;
+&lt;p&gt;The first module begins with leveraging what is software, what is quality, what is good design. Most importantly, it tells us what the quality of software really means.&lt;/p&gt;
+&lt;p&gt;I have just stumbled upon a section, where it asks me to read material about &lt;a href=&quot;https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658094(v=pandp.10)&quot;&gt;Quality Attributes&lt;/a&gt; in software. At first glance, the numerous items of attributes are very intimidating. I just don’t accept the way the course asks you to memorize all of it. Even though the material tried to give a brief definition of each attribute in the form of a table, those number of items is still scary.&lt;/p&gt;
+&lt;p&gt;I was believing at the moment that I will be having through them all and memorized all of it. After reading through few attributes, I just began to realize an astonishing fact.&lt;/p&gt;
+&lt;p&gt;Those quality attributes are very common to me. Then I began to recall all of the moment I spend doing some of my software projects, it was when I consider the quality attributes to be missing or to be fully implemented in my software.&lt;/p&gt;
+&lt;p&gt;All these years I spend developing software, I get it all wrong. &lt;strong&gt;Not all of those quality attributes shall be fully satisfied.&lt;/strong&gt; I have some reason for it:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;It cost more effort&lt;/li&gt;
+&lt;li&gt;Pragmatism&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;It Cost an Effort to Satisfy a Quality Attribute&lt;/h2&gt;
+&lt;p&gt;The software I was working with at the moment is a cardless installment account application. It is like a credit account without a card, mostly you only can use it through their online marketplace or several merchants.&lt;/p&gt;
+&lt;p&gt;A customer will be filling an application form, they fill in a personal information form along with another required form. It is our job to send the application form data from the customer to the creditor, and report the application status to the customer from the creditor.&lt;/p&gt;
+&lt;p&gt;It is very troublesome just to make sure the data is synced, between our data warehouse and creditor warehouse, resulting in unsynced application status.&lt;/p&gt;
+&lt;p&gt;Almost every day, there will be a customer applying through our service, and the application status is not synced. When we don’t have an operation dashboard to force update the application status on to our database, it is the engineer’s job to perform the manual updates directly onto the database.&lt;/p&gt;
+&lt;p&gt;Having operation tasks on the engineering side is very costly, simply by understanding that our salary surely paid multiple times more compared to the guy in operational.&lt;/p&gt;
+&lt;p&gt;We who felt it was so troublesome doing operational tasks, then proposing to build an operation dashboard to ease application status force update. &lt;strong&gt;But remember, working on a feature is also needs effort&lt;/strong&gt;. Because the dashboard won’t come in a snap like what Thanos did.&lt;/p&gt;
+&lt;h2&gt;Pragmatism&lt;/h2&gt;
+&lt;p&gt;Do you know the response from the product team to our proposal? “That was a brilliant solution to all of these messes, but we won’t be doing it for now. We need to deliver another product.” Although that was not redactional accurate, I can say the meaning is similar.&lt;/p&gt;
+&lt;p&gt;It is not us who paid for our self doing engineering tasks, coding, architecting, etc. It is them who paid our monthly salary, raise our salary, give us benefits. Interpreted by our fellow in product and manager, they have more understanding of what is really happening to our company.&lt;/p&gt;
+&lt;p&gt;Maybe our investors are very demanding of the newest project we will be working on. Maybe our company is pursuing a high revenue for next quarter. Maybe other things we don’t know, or we shouldn’t know. The thing is that we are paid to help the business achieve the company target.&lt;/p&gt;
+&lt;p&gt;Come to realize, IT and engineer department is primary a supporter department compared to any other. Things may be different when you are working on a software house, commonly it is the way it is. In my opinion, pragmatism frequently is what makes our software don’t achieve those all quality attributes perfectly.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Some of the company might be very strict of the software quality, even the engineering department of our company urging to build a high quality of software by campaigning “engineer owns the quality of the software”.&lt;/p&gt;
+&lt;p&gt;Things will be different when you are in a company that on business, even on a nonprofit company.&lt;/p&gt;
+&lt;p&gt;The best thing engineer can do is, prioritizing which quality attributes have a higher priority to achieving. That will be my final words.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Acing Your First On Call Schedule: Clear Report on Every Second]]></title><description><![CDATA[Not every company scheduling an on-call schedule for its software engineers. Some of them rallying on their SREs, regardless of the…]]></description><link>https://satriahrh.com/blog/62-acing-your-first-on-call-schedule-clear-report-on-every-second/</link><guid isPermaLink="false">https://satriahrh.com/blog/62-acing-your-first-on-call-schedule-clear-report-on-every-second/</guid><pubDate>Sun, 10 Jan 2021 18:26:05 GMT</pubDate><content:encoded>&lt;p&gt;Not every company scheduling an on-call schedule for its software engineers. Some of them rallying on their SREs, regardless of the controversy I want to more focus on you. You who are scheduled for an on-call.&lt;/p&gt;
+&lt;p&gt;Just letting you know, you can skip this paragraph if you don’t want to hear to side story behind the writing of this article, when I first thought of writing “Acing Your First On Call Schedule”, I came up with idea of stating all the thing you need to concern and prepare. At the time writing it, I ended up being so nostalgic and the 4-5 article become a chapter of a book, exaggerated. Though, it is true that the article gone long. Then I came up with another idea to slicing it up. And this is one of the point of all of the concern and preparation you should know on Acing Your First On Call Schedule.&lt;/p&gt;
+&lt;h2&gt;Reporting is Important and Urgent&lt;/h2&gt;
+&lt;p&gt;The famous Eisenhower matrix told us that by using 4 quadrants you can leverage the activity you are/will doing, based on the importance and urgency. How to prioritize which activity should we do now based on the quadrant, is not our topic here and there are numerous backgrounds on conducting particular different prioritization methods by individuals.&lt;/p&gt;
+&lt;p&gt;Reporting everything during an incident is both very important and very urgent, fall on to quadrant 1.&lt;/p&gt;
+&lt;p&gt;Most people would agree that everything that falls on to quadrant 1 should be done first, no matter what prioritization method you are currently using. Because something urgent is not a thing we can delay, maybe someone is waiting outside the toilet for a pee then shall we not to delay if have finished our business. Every urgent matter doesn’t need to be important however, you can skip that urgent not important activity like a sharing session from your colleague in a few minutes for another important activity.&lt;/p&gt;
+&lt;p&gt;Reporting an incident shall not be delayed, because it is urgent to tell the related stakeholder and teams what is going on with the system. It is also important, to make them know what is going on.&lt;/p&gt;
+&lt;p&gt;Skipping a report and keeping it to yourself resulting in unaligned on your team. Someone may be wondering about a plummet on the GMV, and they might desperately try to understand that degradation. Giving them a minimum notice would certainly helpful for future understanding, they will explain to the client or stakeholder about the degradation of the system a few moments ago. It is also helpful for current understanding, they can conduct the best quick mitigation ever possible.&lt;/p&gt;
+&lt;h2&gt;When to Report?&lt;/h2&gt;
+&lt;p&gt;Remember that this is all based on my experience. I had not been in an engineer incident numerous times, neither I been an on-call engineer multiple times since the year of my experience in this professional won’t be sufficient enough for a good judgment. I just want to make an aspiration of how things should be done, in this particular case: reporting an incident when you are the on-call engineer.&lt;/p&gt;
+&lt;p&gt;You are obligated to report the incident &lt;strong&gt;now&lt;/strong&gt; and &lt;strong&gt;later&lt;/strong&gt;. Now for when the incident is happening, later for when the incident has been mitigated and you have been recovered from exhaustion.&lt;/p&gt;
+&lt;p&gt;About now and later are not an option for one, in fact, it uses &lt;strong&gt;and&lt;/strong&gt; to state both of the condition should be met.&lt;/p&gt;
+&lt;p&gt;In the previous section, I have told you that reporting the incident as quickly as possible resulting for the team and impacted to have current understanding. Probably, the mitigation is not from you as an on-call engineer. It might require a toggle off of some features resulting in to complete shut down of the feature, whereas letting the incident currently happening might be the best option for the business team since there are some users who still manage to use the feature without hassle. The mitigation might not be on your engineering team, rather from the related team or even the vendor. You may report the incident to all of the engineers in the whole internal organization, who knows the root cause if from the other team and they are currently on the way to deploy the hotfix. You may report the incident to a vendor, partner, or a third party, they have the right to know why all of sudden the traffic is vanishing from our service.&lt;/p&gt;
+&lt;p&gt;I also have told you in the previous section, the reporting incidents will also be helpful for future understanding. The business has been aware of the incident that happened, they all have been agreed on the mitigation. However, they certainly want to avoid similar incidents. Asking the on-call engineer in charge when on the moment the incident is happening might not a good choice for the business team, and it is not a good idea either for both side since all of us are having the mindset to recover from the incident as quickly as possible before the impacted user growing up and bad publication start to trending. This is when I should introduce a new term, &lt;strong&gt;post mortem document&lt;/strong&gt;, a report document of an incident written after the incident.&lt;/p&gt;
+&lt;h2&gt;How to Report Now?&lt;/h2&gt;
+&lt;p&gt;You should now understand that you should report the incident on the moment the incident is happening and after the incident happened. Then we are talking about how to reporting the incident, both now and later in a timely manner. However, it is not wise for me to write it down in the same section since the context of each event is completely different.&lt;/p&gt;
+&lt;p&gt;Reporting the incident now required several points:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Quick in reporting founding;&lt;/li&gt;
+&lt;li&gt;Quick in generating mitigation;&lt;/li&gt;
+&lt;li&gt;Concise in content but not eliminating any important details;&lt;/li&gt;
+&lt;li&gt;An environment to gather a clear focus.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The practice of reporting now is numerous and I still can’t argue which one is the best objectively. What I can do is state what I ever experienced and what is my favorite.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;production incident report channel/group&lt;/strong&gt; on usual organization chat platform is underrated. It is very traditional since the beginning of the messaging platform ever founded, it is very easy to report since we tend to take aside our interpersonal moral on virtual. So reporting on a chat is very easy. However I might give you a tip to make the report be more clean and clear, I am not wanting you just make an anarchy report channel to be cluttered with numerous report incidents at the same time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;the virtual war room&lt;/strong&gt; is my favorite, even though I never been there at all, not at the big one. It is obviously different from the real war room, where all the participants are needed to gather into a big room and everyone shouting each other :p However, a virtual war room is much more clean and easy to create. Comparing to the chat report channel, the virtual war room also gives you more focus, quick discussion to mitigation, and easier for us to explain in oral.&lt;/p&gt;
+&lt;h2&gt;How to Report Later?&lt;/h2&gt;
+&lt;p&gt;Write a proper post mortem document. It should give the details of the minutes of the incident, the founding, the root causes, the mitigation, the action item, and the calculated impact from the incident. Although some organization have different point of view in what to report, but having all of those is a minimum.&lt;/p&gt;
+&lt;p&gt;It is the best way to report for later. All of the post mortem documents on the organization should be gathered in one place, or in a way everyone can read it. There is still controversy about considering it as a restricted knowledge, so not everyone in the organization is allowed to read a “critical and sensitive” document detailing a bug in our system. I don’t want to make an argument about it, the thing is the related team and stakeholders should have easy access to the post mortem document. The why might be a good topic for my next article though, for now, you can simply take that it that way.&lt;/p&gt;
+&lt;p&gt;However, the practice of creating a document is not enough. even make it easily accessible for related persons. The post mortem document should be the initial or the beginning of delivering better products to customer/user/client. Several lessons can be learned, several decisions can be made for better delivery. Who doesn’t want better delivery for our customer? Better traffic, more customer happy, more good publication, more revenue, more salary, more bonuses. I am just trying to telling you that it is very intuitive to make post mortem document as your judgement to refine your current service and build future service.&lt;/p&gt;
+&lt;h2&gt;Story Time&lt;/h2&gt;
+&lt;p&gt;This is pretty well known if you are been there, or you might have been told by someone there. It is a good story from a sad story. Hopefully, this is can help you understand of why reporting is both urgent and important, and how a good reporting can impact significantly better.&lt;/p&gt;
+&lt;p&gt;For short, a big incident were happening. Every on call engineer got invited to a virtual war room, all night long.&lt;/p&gt;
+&lt;p&gt;My luck that day wasn’t my schedule or unfortunate maybe? It was 8 or 9 pm when the incident first happened. Those hours are already pretty late for everyone to be still at work hour. It is when everyone has focused on their fun after one exhausting day. Slack app has been turned off for notification, so no one from work can bother you with job-related.&lt;/p&gt;
+&lt;p&gt;It was only meant to be scheduled maintenance if I recall correctly, to upgrade a system in particular. For DevOps engineers, it is not a big deal. Who knows, this kind of not a big deal becomes a little hiccup at the beginning.&lt;/p&gt;
+&lt;p&gt;Started from an unintended behavior after the changes been applied to the system. This might be not that accurate, but it is very intuitive for you to quickly resolve the unintended behavior when you make a change to a system right? When I found a defect in my development environment, I would debug it and make the best appropriate changes. It also goes for that DevOps engineer who just found an unintended behavior of a system after the changes have been applied by them.&lt;/p&gt;
+&lt;p&gt;For the sake of accuracy, the quick fix is not working. I will be panic obviously, luckily it wasn’t me. The DevOps engineer then chats reports to the production incident report channel, letting everyone know that they are currently having a problem with a system, possibly impacting the whole system and degrading the whole service.&lt;/p&gt;
+&lt;p&gt;Related team and upper management beginning to join up on to virtual war room. They want a clarification of what was happening and what was the situation. And most importantly how to quickly mitigate, hopefully, it is as easier as restarting the VM, a restart for all ultimate solution. But that was not the case.&lt;/p&gt;
+&lt;p&gt;Related on-call engineers from different teams began to joining at around 9-11 pm. After they noticed degraded metrics on their watched service, a surprise for them founding that there was already a big virtual war room consisting of important people in the organization with all on-call engineers from different teams.&lt;/p&gt;
+&lt;p&gt;Sadly, it is a long night for them. Their peaceful night has been gone. Time to work after work. But, it is the job right? We paid for it too.&lt;/p&gt;
+&lt;p&gt;From the post mortem document I read, the team just figured the fix around 3-5 am. I don’t know whether it is considered mitigation or not, but the fix is the best possible and fastest way to recover from the degradation of the system. At least the entire system was serving as it is from 5-6 am, after all of the related on-call engineers from various teams perform their part to make a massive change on their watched services.&lt;/p&gt;
+&lt;p&gt;I was not been in the virtual war room that night. The first time I realized what was happening is after I opened up my slack and found numerous notifications on the production incident report channel. Too bad I wasn’t there, too bad the incident degrading our system that entire night.&lt;/p&gt;
+&lt;p&gt;I read the post mortem in the evening, to catch up on everything I need to know. And most importantly, to understand how should we handle a big incident like this costing numerous potential GMV.&lt;/p&gt;
+&lt;p&gt;One thing for sure, life after that incident is not the same anymore. Any production-related activity is now requiring strict approval, the execution requiring a spectator, etc. And all of them come from the lessons learned from the incident, most importantly a well-documented post mortem and praiseworthy report of the DevOps.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Circle of Safety: feeling safe at work and home]]></title><description><![CDATA[Have you felt anxious at your work or home? Something happening at the office that makes you feel depressed could affect you at your home…]]></description><link>https://satriahrh.com/blog/49-circle-of-safety-feeling-safe-at-work-and-home/</link><guid isPermaLink="false">https://satriahrh.com/blog/49-circle-of-safety-feeling-safe-at-work-and-home/</guid><pubDate>Mon, 04 Jan 2021 18:44:13 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8238f1edfa78c8bdeb4a6737f5f62baa/eea4a/illustration.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAID/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAd2MxIP/xAAYEAEAAwEAAAAAAAAAAAAAAAABAAIREP/aAAgBAQABBQIdi5LZZtHn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGBAAAgMAAAAAAAAAAAAAAAAAAQIQESD/2gAIAQEABj8Ciyox/8QAGBABAQEBAQAAAAAAAAAAAAAAAQAhMYH/2gAIAQEAAT8h9EM1AbPJKEX/2gAMAwEAAgADAAAAEPcv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGRABAAMBAQAAAAAAAAAAAAAAAQARMSFR/9oACAEBAAE/EDaPBpFHuQtxC07MHh9IwLdlzE//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cover&quot;
+        title=&quot;Cover&quot;
+        src=&quot;/static/8238f1edfa78c8bdeb4a6737f5f62baa/828fb/illustration.jpg&quot;
+        srcset=&quot;/static/8238f1edfa78c8bdeb4a6737f5f62baa/ff44c/illustration.jpg 158w,
+/static/8238f1edfa78c8bdeb4a6737f5f62baa/a6688/illustration.jpg 315w,
+/static/8238f1edfa78c8bdeb4a6737f5f62baa/828fb/illustration.jpg 630w,
+/static/8238f1edfa78c8bdeb4a6737f5f62baa/0ede0/illustration.jpg 945w,
+/static/8238f1edfa78c8bdeb4a6737f5f62baa/3ac88/illustration.jpg 1260w,
+/static/8238f1edfa78c8bdeb4a6737f5f62baa/eea4a/illustration.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Have you felt anxious at your work or home? Something happening at the office that makes you feel depressed could affect you at your home, and vice versa.&lt;/p&gt;
+&lt;p&gt;Recently, I just bought a paper book named &lt;a href=&quot;https://www.goodreads.com/book/show/16144853-leaders-eat-last&quot;&gt;Leaders Eat Last&lt;/a&gt; by Simon Sinek then I read it on my kindle (don’t ask how). It mainly tells a lot about a Circle of Safety, in how we maintain a safe and supportive environment everywhere to boost our productivity both at work and home.&lt;/p&gt;
+&lt;h2&gt;What is The Circle of Safety?&lt;/h2&gt;
+&lt;p&gt;SpongeBob SquarePants at The Camping Episode, you should’ve known this for sure. It is when SpongeBob and Patrick decided to make a camp in their front yard. Events after events, a sea bear bringing disaster to the club, and the only one that can save them from the attack is the anti sea bear circle.&lt;/p&gt;
+&lt;p&gt;The circle of safety is like anti sea bear circle. It protects anyone inside from the danger outside, and making sure anyone inside brings no harm but safe.&lt;/p&gt;
+&lt;p&gt;According to the author, maintaining a circle of safety will bring more productivity. The stronger the circle, the more productive the entire club could be.&lt;/p&gt;
+&lt;h2&gt;How to Create The Circle of Safety?&lt;/h2&gt;
+&lt;p&gt;The next question should you wonder is how to create it? And the answer is easy, by creating a borderline between the inner side and outer side. Don’t give me such emotion, I am being serious here :v&lt;/p&gt;
+&lt;p&gt;But seriously, knowing which inside and which outside is the first thing the author tells. Though I haven’t finished the book yet, I become to understand what is it and why is it important to maintain it.&lt;/p&gt;
+&lt;p&gt;Some people consider this book a leadership book, but I don’t think so. Knowing which inside and which outside is not the sole responsibility of the leader. Intuitively, we will keep everything that brings benefit to us as our inner side and brings harm to us as our outer side.&lt;/p&gt;
+&lt;p&gt;The inner side should not make a frown on our face. The opposite, it should remove any sorrow from our heart when something hit us. You actually expect that from your parent, brother, sister, family, partner, coworker right?&lt;/p&gt;
+&lt;p&gt;The outer side is a little bit tricky because the author tells us in national geographic style narrative. He is literally describing how the herd of gazelle is keeping away from the danger of starving lions. And yes, it is as heroic as you can (should) imagine.&lt;/p&gt;
+&lt;p&gt;To create the circle of safety, it is actually needing an understanding of how we understand: (1) what brings safe to us in which we do not need any fear from it and (2) anyone that doesn’t belong to the inner side goes outside. The latter is actually a shortcut but is true though because the author also tells us that we live in a world that danger is everywhere and even everyone.&lt;/p&gt;
+&lt;h2&gt;How to maintain?&lt;/h2&gt;
+&lt;p&gt;Buy the book, thanks.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to Build Product That Deliver High Business Value?]]></title><description><![CDATA[As a software engineer, we are always tempted to deliver a product that meets business requirements on time. Even in a big company, they…]]></description><link>https://satriahrh.com/blog/36-how-to-build-product-that-deliver-high-business-value/</link><guid isPermaLink="false">https://satriahrh.com/blog/36-how-to-build-product-that-deliver-high-business-value/</guid><pubDate>Sat, 02 Jan 2021 01:01:50 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/34d26eb3ff2a7b4f4cf3397ea17919ec/eea4a/dsc0112.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.08860759493672%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//aAAwDAQACEAMQAAAB6MrRRdRyb//EABwQAAICAgMAAAAAAAAAAAAAAAECAAMEERITI//aAAgBAQABBQJrE0E2esmZdamZPjUjcF//xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAwEBPwFH/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIh/9oACAECAQE/AYa//8QAHBAAAgICAwAAAAAAAAAAAAAAAAECERJBITFh/9oACAEBAAY/Aqk8Tvg0RSVekFHZVI//xAAdEAACAgEFAAAAAAAAAAAAAAABEQAhMUFRYbHh/9oACAEBAAE/ITgsMOZQrXWsZJ6+xJh7BGNmciYkc5n/2gAMAwEAAgADAAAAEBwv/8QAFxEBAAMAAAAAAAAAAAAAAAAAABEhQf/aAAgBAwEBPxDLQf/EABYRAQEBAAAAAAAAAAAAAAAAAAEQcf/aAAgBAgEBPxBTsf/EAB4QAQEAAgICAwAAAAAAAAAAAAERACFBUTFhcYGh/9oACAEBAAE/EPTRjYn1rjN9GVilc/GIQSMNX9MMJavlTrEoEK5qdTINJthKuf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cover&quot;
+        title=&quot;Cover&quot;
+        src=&quot;/static/34d26eb3ff2a7b4f4cf3397ea17919ec/828fb/dsc0112.jpg&quot;
+        srcset=&quot;/static/34d26eb3ff2a7b4f4cf3397ea17919ec/ff44c/dsc0112.jpg 158w,
+/static/34d26eb3ff2a7b4f4cf3397ea17919ec/a6688/dsc0112.jpg 315w,
+/static/34d26eb3ff2a7b4f4cf3397ea17919ec/828fb/dsc0112.jpg 630w,
+/static/34d26eb3ff2a7b4f4cf3397ea17919ec/0ede0/dsc0112.jpg 945w,
+/static/34d26eb3ff2a7b4f4cf3397ea17919ec/3ac88/dsc0112.jpg 1260w,
+/static/34d26eb3ff2a7b4f4cf3397ea17919ec/eea4a/dsc0112.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;As a software engineer, we are always tempted to deliver a product that meets business requirements on time. Even in a big company, they tend to expect us to deliver the functionality on time. Even those mature software engineer and product manager, they only care about the acceptance criteria based on functionality like “the service enable the user to add product promotion to their online store.” Rarely do they care about the business value before, on, and after the development team delivers the product.&lt;/p&gt;
+&lt;p&gt;In reality, the product manager or project manager or whoever delivers the business requirement always had metrics on their hand. And it is very logical, they won’t be wasting so much time just waiting for the development team to build a product. They have their math, after the product launch, they will certainly expect a growing number of users, revenue, or any.&lt;/p&gt;
+&lt;p&gt;Knowing that they have certain metrics to watch, why don’t the development team don’t? And that will be what this article talking about: how to build a product that delivers high business value. Because just keeping our eyes only on product behavior and deadline won’t bring any good for everyone.&lt;/p&gt;
+&lt;p&gt;As an engineer, I had passed those phases where what I only care about is the requirement from my product manager. They told me to build a certain feature that behaves like what they present using a prototype from the UX team. I just focus on how can I build the feature, in time. Rarely I ask him what metrics should we care about, how do will we be using the stored data, what is a certain expectation from the business team, what is the future plan for this feature, etc. I just don’t buy those kinds of so-called business things, as a fresh graduate who graduated with an informatics engineering degree I only care about the technical part because my role in this company is Software Engineer.&lt;/p&gt;
+&lt;p&gt;Later did I know, my approach to building things only care technical part is so wrong. I read many articles, watch many videos, listen to agile coach said, software engineer, is not just coder. A software engineer is an engineer, and an engineer doesn’t just write code. Surprisingly, we had learned that when we were freshmen. You can google it, software engineering process consists of several processes that are not only coding (from Sommerville): requirement analysis, design, implementation, testing, evolution.&lt;/p&gt;
+&lt;p&gt;So given that I only care about the technical part, I literally can build a product with numerous methods using unlimited cost. But business just doesn’t go that way, your company certainly have a limit on investing technology and to support our product running well in production.&lt;/p&gt;
+&lt;p&gt;My suggestion is that, as an engineer who is working on a development team, they should be watching not just the technical part of the requirement of the product they will be building. A software engineer is expected to conduct an engineering process to generate a suitable solution given so many certain and uncertain things to watch.;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Writing Journey Starts Here: began by reading]]></title><description><![CDATA[So many times I started to write, no one succeeded. From daily private journey, WordPress blog (not this one), Facebook post, the last one…]]></description><link>https://satriahrh.com/blog/33-my-writing-journey-starts-here-began-by-reading/</link><guid isPermaLink="false">https://satriahrh.com/blog/33-my-writing-journey-starts-here-began-by-reading/</guid><pubDate>Fri, 01 Jan 2021 08:47:46 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dadcc69a0a5e9ae0dcf775073785c7c8/eea4a/dsc0111.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.08860759493672%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABA//EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAASpF0QlkP//EABgQAQEBAQEAAAAAAAAAAAAAAAIBAxEU/9oACAEBAAEFAhmlnMbTqeM7KH0Ul6V3/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BJ//EABsQAAICAwEAAAAAAAAAAAAAAAABETECEGFx/9oACAEBAAY/AsWjvuoKsln/xAAbEAADAQEAAwAAAAAAAAAAAAAAAREhMUFRcf/aAAgBAQABPyHnDvmG7WO0uk/SFZZEbzr6JOVh/9oADAMBAAIAAwAAABAbD//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EEn/xAAWEQEBAQAAAAAAAAAAAAAAAAABERD/2gAIAQIBAT8QUqZ//8QAGxABAAMAAwEAAAAAAAAAAAAAAQARITFRYZH/2gAIAQEAAT8QonFp5NyJam8ah2UHkJBSs/IbtajIOFZtMBSkBh4UT//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cover&quot;
+        title=&quot;Cover&quot;
+        src=&quot;/static/dadcc69a0a5e9ae0dcf775073785c7c8/828fb/dsc0111.jpg&quot;
+        srcset=&quot;/static/dadcc69a0a5e9ae0dcf775073785c7c8/ff44c/dsc0111.jpg 158w,
+/static/dadcc69a0a5e9ae0dcf775073785c7c8/a6688/dsc0111.jpg 315w,
+/static/dadcc69a0a5e9ae0dcf775073785c7c8/828fb/dsc0111.jpg 630w,
+/static/dadcc69a0a5e9ae0dcf775073785c7c8/0ede0/dsc0111.jpg 945w,
+/static/dadcc69a0a5e9ae0dcf775073785c7c8/3ac88/dsc0111.jpg 1260w,
+/static/dadcc69a0a5e9ae0dcf775073785c7c8/eea4a/dsc0111.jpg 1280w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;So many times I started to write, no one succeeded. From daily private journey, WordPress blog (not this one), Facebook post, the last one is medium. And I now begin to understand what’s wrong with me. Why did I fail in those attempts? Why did I fail every time I tried to start writing.&lt;/p&gt;
+&lt;h2&gt;I am not a reader to begin with?&lt;/h2&gt;
+&lt;p&gt;That was true, it was. To understand why I am not able to transform my mind into words of an article is that I have no clue. What I can do is just endlessly thinking about how should I write my article.&lt;/p&gt;
+&lt;p&gt;It is logical. A reader has countless experiences with words. They are exposed to different kinds of written expressions. Words are just a daily meal for them. They can say like, “Ah this kind of expression is so ugly.” or any comment of expression the author used.&lt;/p&gt;
+&lt;p&gt;Back in the day when I was writing my final college project for my bachelor’s degree, I was both reading and writing. In the first place, you should have read countless scientific papers on your desired (forced maybe 🤣) research topic. Then you conclude your reading onto your understanding, connecting the dots of how it relevant to your topic. Finally, you present your idea to your supervisor, first by writing it onto a draft of a research journal.&lt;/p&gt;
+&lt;p&gt;At that time, I was surprised that I was able to write a college-level of writing. My writing is so good, not trying to be naive. The grammar mistake is not that bad. I got several reviews on my draft though, but that was due to no self-review from me. The thing is, I enjoyed writing my research journal in English, and cannot imagine I was writing in Indonesian.&lt;/p&gt;
+&lt;p&gt;Regardless of the language, even if you are a native speaker of a language, you won’t be able to write if you don’t read. My research paper was written in English, and by that time I am a Javanese native speaker fluent in Indonesian, and English is only for reading college literature. I am still able to write in English because I was previously reading English literature.&lt;/p&gt;
+&lt;p&gt;And now you will be surprised that I won’t be able in any way to write any passage in my native language of Javanese, the reason is that there is no literature written in Javanese 😁. So the conclusion is, read then write.&lt;/p&gt;
+&lt;h2&gt;Am I a reader now?&lt;/h2&gt;
+&lt;p&gt;In this language, I would rather say that I was only a reader. I live in Indonesia, where no one asks you to speak, listen, text in English. I read in English since the information to support my work on the Internet is not sufficient in Indonesian, then I run into searching for information using an English keyword.&lt;/p&gt;
+&lt;p&gt;As a software engineer, I am working tightly with the technical documentation of the tools I am working on. It can be technical documentation of how to use a framework, how to do certain functionality in a specific programming language, or how to solve some kind of technical problem in a very specific development environment. That kind of information rarely be seen in Indonesian, there is no powerful forum like stackoverflow.com in Indonesian.&lt;/p&gt;
+&lt;p&gt;I sometimes read an e-book in English, it is work related. For the same reason as above, there is now sufficient literature published in Indonesian. If I looked for an Indonesian book, there are many. When I was in college, I bought some college books in Indonesian. That was enough to pursue my college and help me to graduate, very successful before senior year. But the thing is different when I had graduated, exactly when it was senior year.&lt;/p&gt;
+&lt;p&gt;A profession like a software engineer is not a common in Indonesia. I am (in the day I am writing this) pretty sure that software engineer hasn’t boomed yet. The industry demand wasn’t so big to accommodate computer science graduates. So the literature to pursue this profession is limited. Then comes to me book recommendation authored in English by English.&lt;/p&gt;
+&lt;p&gt;Then I get used to skimming through some books. Wasn’t very good at the very beginning, just looking for something to check onto and never come back again to finish the book. But now, it is different. I am reading an English book like it is a novel authored in Indonesian.&lt;/p&gt;
+&lt;h2&gt;Something change my reading habit&lt;/h2&gt;
+&lt;p&gt;So many people wrote this kind of thing on the Internet. And may be I am part of them too.&lt;/p&gt;
+&lt;p&gt;The answer is that I bought a kindle a week ago. Exactly a week ago, the kindle battery had only been charged once since first opened from the box.&lt;/p&gt;
+&lt;p&gt;I don’t want to spoil anything now, since this is only the first week I am using kindle. I consider that this is may be still not valid enough to justify that I began to write from reading. People said that your habit is when you make it 40 days strike, and I haven’t.&lt;/p&gt;
+&lt;p&gt;So let it be, let it be. As broken English by Indonesian said,&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Keep calm and keep spirit&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;majority of Indonesian knowing this is a broken english&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I will come back after the 40th day of using kindle, with a review of me using kindle and how kindle really changes my life.&lt;/p&gt;
+&lt;h2&gt;But why am I writing a blog now?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Writing is part of the journey of every reader.&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;some people&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So here I am, I want to make this legitimated.&lt;/p&gt;
+&lt;p&gt;Since I was reading, so many thoughts cross my mind. So many ideas just come out of nowhere. Made me frustrated every time those things pop out without any permission. That was also irritating since most of them such brilliant. And I don’t want them just to be wasted.&lt;/p&gt;
+&lt;p&gt;It is not just what people said, although it was also one of the reasons that triggered me, it is about me wanting to make it as a creation. A creation that comes out from overloading creativity of me since I was reading. To not make those brilliant ideas and thoughts be a waste, then I want to make them useful to everyone or at least for me in the future.&lt;/p&gt;
+&lt;p&gt;So, I don’t really care about anything in particular. Anything like how somebody earn so much ads that generate money from only writing an article each day, I don’t want kind of that. I am just needing a peace of mind. My writing wasn’t so good though, so I wasn’t expecting abundant readers to consume my writing.&lt;/p&gt;
+&lt;p&gt;If this article is needed by them, let it be. Or else, let it be the artifact of my existence.&lt;/p&gt;</content:encoded></item></channel></rss>
